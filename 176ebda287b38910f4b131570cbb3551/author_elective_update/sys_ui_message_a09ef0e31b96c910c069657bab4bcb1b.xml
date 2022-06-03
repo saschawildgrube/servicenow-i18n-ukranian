@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="DELETE">
+        <application/>
+        <code/>
+        <commented_message/>
+        <key>Action Needed</key>
+        <language>uk</language>
+        <message>Потрібна дія</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>bogdan.felinskyi</sys_created_by>
+        <sys_created_on>2022-03-23 17:36:27</sys_created_on>
+        <sys_id>a09ef0e31b96c910c069657bab4bcb1b</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Action Needed</sys_name>
+        <sys_package display_value="Global" source="global">global</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="I18N: Ukrainian Translations">176ebda287b38910f4b131570cbb3551</sys_scope>
+        <sys_update_name>sys_ui_message_a09ef0e31b96c910c069657bab4bcb1b</sys_update_name>
+        <sys_updated_by>bruno.alvesferraz</sys_updated_by>
+        <sys_updated_on>2022-06-03 09:20:21</sys_updated_on>
+    </sys_ui_message>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="I18N: Ukrainian Translations">176ebda287b38910f4b131570cbb3551</claim_owner_scope>
+        <claim_timestamp>18128dd9e1b0000001</claim_timestamp>
+        <metadata_update_name>sys_ui_message_a09ef0e31b96c910c069657bab4bcb1b</metadata_update_name>
+        <previous_claim_app_version>1.0.0</previous_claim_app_version>
+        <previous_claim_name>I18N: Ukrainian Translations</previous_claim_name>
+        <previous_claim_scope>176ebda287b38910f4b131570cbb3551</previous_claim_scope>
+        <sys_created_by>bruno.alvesferraz</sys_created_by>
+        <sys_created_on>2022-06-03 09:20:21</sys_created_on>
+        <sys_id>a77ff52687b38910f4b131570cbb354b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>bruno.alvesferraz</sys_updated_by>
+        <sys_updated_on>2022-06-03 09:20:21</sys_updated_on>
+    </sys_claim>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="I18N: Ukrainian Translations">176ebda287b38910f4b131570cbb3551</application>
+        <file_path/>
+        <instance_id>3f7a9f99db0a09104d2bac44d4961991</instance_id>
+        <instance_name>bgkdev</instance_name>
+        <name>sys_ui_message_a09ef0e31b96c910c069657bab4bcb1b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message"><sys_ui_message action="INSERT_OR_UPDATE"><application/><code/><commented_message/><key>Action Needed</key><language>uk</language><message>Потрібна дія</message><sys_class_name>sys_ui_message</sys_class_name><sys_created_by>bogdan.felinskyi</sys_created_by><sys_created_on>2022-03-23 17:36:27</sys_created_on><sys_id>a09ef0e31b96c910c069657bab4bcb1b</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Action Needed</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="I18N: Ukrainian Translations">176ebda287b38910f4b131570cbb3551</sys_scope><sys_update_name>sys_ui_message_a09ef0e31b96c910c069657bab4bcb1b</sys_update_name><sys_updated_by>bruno.alvesferraz</sys_updated_by><sys_updated_on>2022-06-03 09:20:21</sys_updated_on></sys_ui_message><sys_claim action="INSERT_OR_UPDATE"><claim_owner_scope display_value="I18N: Ukrainian Translations">176ebda287b38910f4b131570cbb3551</claim_owner_scope><claim_timestamp>18128dd9e1b0000001</claim_timestamp><metadata_update_name>sys_ui_message_a09ef0e31b96c910c069657bab4bcb1b</metadata_update_name><previous_claim_app_version>1.0.0</previous_claim_app_version><previous_claim_name>I18N: Ukrainian Translations</previous_claim_name><previous_claim_scope>176ebda287b38910f4b131570cbb3551</previous_claim_scope><sys_created_by>bruno.alvesferraz</sys_created_by><sys_created_on>2022-06-03 09:20:21</sys_created_on><sys_id>a77ff52687b38910f4b131570cbb354b</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>bruno.alvesferraz</sys_updated_by><sys_updated_on>2022-06-03 09:20:21</sys_updated_on></sys_claim></record_update>]]></payload>
+        <payload_hash>443726143</payload_hash>
+        <record_name>Action Needed</record_name>
+        <reverted_from/>
+        <source>dc166b5187460110303b0d830cbb35d3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>bruno.alvesferraz</sys_created_by>
+        <sys_created_on>2022-06-03 09:20:21</sys_created_on>
+        <sys_id>6f7ff52687b38910f4b131570cbb354f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18128dd9e760000001</sys_recorded_at>
+        <sys_updated_by>bruno.alvesferraz</sys_updated_by>
+        <sys_updated_on>2022-06-03 09:20:21</sys_updated_on>
+        <type>Message</type>
+        <update_guid>677ff526b3b389100735bc86e884384f</update_guid>
+        <update_guid_history>677ff526b3b389100735bc86e884384f:443726143,eb7ff5261cb38910ac0d6e3b3f17c14d:1373024044</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>sascha.wildgrube</sys_created_by>
+        <sys_created_on>2022-06-03 12:16:47</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_message">sys_ui_message</sys_db_object>
+        <sys_id>03ef4a019f7e48848ed1169e217e63d1</sys_id>
+        <sys_metadata>a09ef0e31b96c910c069657bab4bcb1b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Action Needed</sys_name>
+        <sys_package display_value="Global" source="global">global</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="I18N: Ukrainian Translations">176ebda287b38910f4b131570cbb3551</sys_scope>
+        <sys_scope_delete display_value="">5b19587e63364b25b3a4ec141c916419</sys_scope_delete>
+        <sys_update_name>sys_ui_message_a09ef0e31b96c910c069657bab4bcb1b</sys_update_name>
+        <sys_update_version display_value="sys_ui_message_a09ef0e31b96c910c069657bab4bcb1b">6f7ff52687b38910f4b131570cbb354f</sys_update_version>
+        <sys_updated_by>sascha.wildgrube</sys_updated_by>
+        <sys_updated_on>2022-06-03 12:16:47</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
