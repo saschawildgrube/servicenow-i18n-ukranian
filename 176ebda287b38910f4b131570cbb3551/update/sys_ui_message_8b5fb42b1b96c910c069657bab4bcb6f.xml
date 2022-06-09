@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application/>
+        <code/>
+        <commented_message/>
+        <key>Remove the row from the transform map where {0} is the source field and {1} is the target field</key>
+        <language>uk</language>
+        <message>Видалити рядок із схеми перетворення, де вихідне поле – {0}, а цільове поле – {1}</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>bogdan.felinskyi</sys_created_by>
+        <sys_created_on>2022-03-23 17:39:53</sys_created_on>
+        <sys_id>8b5fb42b1b96c910c069657bab4bcb6f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Remove the row from the transform map where {0} is the source field and {1} is the target field</sys_name>
+        <sys_package display_value="I18N: Ukrainian Translations" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="I18N: Ukrainian Translations">176ebda287b38910f4b131570cbb3551</sys_scope>
+        <sys_update_name>sys_ui_message_8b5fb42b1b96c910c069657bab4bcb6f</sys_update_name>
+        <sys_updated_by>bogdan.felinskyi</sys_updated_by>
+        <sys_updated_on>2022-03-23 17:39:53</sys_updated_on>
+    </sys_ui_message>
+</record_update>

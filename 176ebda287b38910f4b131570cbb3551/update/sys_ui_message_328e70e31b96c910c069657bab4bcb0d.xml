@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application/>
+        <code/>
+        <commented_message/>
+        <key>. All rights, title, and interest in and to all intellectual property rights in the Software are owned exclusively by ServiceNow. You may not (and shall not permit others to): (i) use the Software in excess of the rights and permissions granted to you und</key>
+        <language>uk</language>
+        <message>Усі права, права власності та інтереси у зв'язку з правами інтелектуальної власності на програмне забезпечення належать виключно компанії ServiceNow. Ви не можете (і не можете дозволити іншим користувачам): (I) використовувати це ПЗ з перевищенням прав та дозволів, наданих вам за умовами поточного та чинного меморандуму про домовленість або інший клієнтський договір; (II) передавати в порядку ліцензування або субліцензування, продавати, перепродавати, орендувати, здавати в оренду, передавати, розповсюджувати або передавати в тимчасове користування або іншим чином надавати доступ до цього ПЗ (цілком або частково) третім сторонам, за винятком випадків, коли меморандумом про домовленість чи іншим клієнтським договором прямо передбачено інше; (III) здійснювати доступ до програмного забезпечення з метою розробки або експлуатації продуктів або послуг, призначених для конкурентних сторонніх компаній; (IV) здійснювати розбирання, реконструювання чи декомпілювання ПЗ; (V) копіювати це ПЗ, створювати похідні роботи на основі даного ПЗ або іншим чином модифікувати це ПЗ, крім випадків, спеціально обумовлених у меморандумі про домовленість або інший клієнтський договір; (VI) видаляти або змінювати попередження про авторське право або інші повідомлення про право власності у цьому ПЗ; (VII) використовувати це ПЗ для відтворення, розповсюдження, відображення, передачі або використання матеріалу, захищеного авторським правом або іншими правами на інтелектуальну власність (у тому числі правами публічності чи конфіденційності) без попереднього отримання дозволу власника; (VIII) використовувати це програмне забезпечення для створення, використання, відправлення, зберігання або запуску вірусів або іншого шкідливого програмного коду, файлів, сценаріїв, агентів або інших програм або іншим чином брати участь у зловмисних діяннях або порушенні безпеки, цілісності або роботи цього програмного забезпечення; (IX) здійснювати доступ до будь-якої інформації, ПЗ або мереж ServiceNow або сторонніх компаній, а також деактивувати їх (крім вашого екземпляра підписки на службу відповідно до меморандуму про домовленість або іншого клієнтського договору).</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>bogdan.felinskyi</sys_created_by>
+        <sys_created_on>2022-03-23 17:36:20</sys_created_on>
+        <sys_id>328e70e31b96c910c069657bab4bcb0d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>. All rights, title, and interest in and to all intellectual property rights in the Software are owned exclusively by ServiceNow. You may not (and shall not permit others to): (i) use the Software in excess of the rights and permissions granted to you und</sys_name>
+        <sys_package display_value="I18N: Ukrainian Translations" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="I18N: Ukrainian Translations">176ebda287b38910f4b131570cbb3551</sys_scope>
+        <sys_update_name>sys_ui_message_328e70e31b96c910c069657bab4bcb0d</sys_update_name>
+        <sys_updated_by>bogdan.felinskyi</sys_updated_by>
+        <sys_updated_on>2022-03-23 17:36:20</sys_updated_on>
+    </sys_ui_message>
+</record_update>

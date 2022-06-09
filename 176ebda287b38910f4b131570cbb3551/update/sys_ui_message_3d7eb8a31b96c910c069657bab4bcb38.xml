@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application/>
+        <code/>
+        <commented_message/>
+        <key>you may choose up to five sample alarms from logrhythm to aid in creation and verification of mapping rules.\n\navailable alarm fields and their corresponding values will be displayed.  these alarm fields can be dragged to the mapping grid to the right in</key>
+        <language>uk</language>
+        <message>Можна вибрати до п'яти зразків сигналів у LogRhythm для підтримки створення та перевірки правил зіставлення.\n\nВідобразяться доступні поля сигналу та їх відповідні значення. Ці поля сигналу можна перетягнути в сітку зіставлення праворуч, щоб зв'язати поле сигналу з полем вихідного інциденту безпеки. Поле вхідного сигналу можна зв'язати із кількома полями інцидентів безпеки.</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>bogdan.felinskyi</sys_created_by>
+        <sys_created_on>2022-03-23 17:35:59</sys_created_on>
+        <sys_id>3d7eb8a31b96c910c069657bab4bcb38</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>you may choose up to five sample alarms from logrhythm to aid in creation and verification of mapping rules.\n\navailable alarm fields and their corresponding values will be displayed.  these alarm fields can be dragged to the mapping grid to the right in</sys_name>
+        <sys_package display_value="I18N: Ukrainian Translations" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="I18N: Ukrainian Translations">176ebda287b38910f4b131570cbb3551</sys_scope>
+        <sys_update_name>sys_ui_message_3d7eb8a31b96c910c069657bab4bcb38</sys_update_name>
+        <sys_updated_by>bogdan.felinskyi</sys_updated_by>
+        <sys_updated_on>2022-03-23 17:35:59</sys_updated_on>
+    </sys_ui_message>
+</record_update>

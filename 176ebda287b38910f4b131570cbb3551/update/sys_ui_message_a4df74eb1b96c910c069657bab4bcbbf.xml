@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application/>
+        <code/>
+        <commented_message/>
+        <key>{0} was escalated.
+To assign yourself to the {1}, reply to this email with 'ACC' in the message body.
+To reject and move the {1} to the next person in the escalation path, reply to this email with 'REJ'</key>
+        <language>uk</language>
+        <message>Виконано ескалацію {0}. Щоб призначити себе на {1}, дайте відповідь на це повідомлення, вказавши «ACC» у тілі повідомлення. Щоб відхилити та передати наступній особі на шляху ескалації, дайте відповідь на це повідомлення, вказавши «REJ»</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>bogdan.felinskyi</sys_created_by>
+        <sys_created_on>2022-03-23 17:41:55</sys_created_on>
+        <sys_id>a4df74eb1b96c910c069657bab4bcbbf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>{0} was escalated.
+To assign yourself to the {1}, reply to this email with 'ACC' in the message body.
+To reject and move the {1} to the next person in the escalation path, reply to this email with 'REJ'</sys_name>
+        <sys_package display_value="I18N: Ukrainian Translations" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="I18N: Ukrainian Translations">176ebda287b38910f4b131570cbb3551</sys_scope>
+        <sys_update_name>sys_ui_message_a4df74eb1b96c910c069657bab4bcbbf</sys_update_name>
+        <sys_updated_by>bogdan.felinskyi</sys_updated_by>
+        <sys_updated_on>2022-03-23 17:41:55</sys_updated_on>
+    </sys_ui_message>
+</record_update>

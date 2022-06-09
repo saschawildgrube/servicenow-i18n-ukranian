@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application/>
+        <code/>
+        <commented_message/>
+        <key>We respect the privacy of its customers,business partners and visitors to its Website (as defined below). This Privacy Policy (the "Policy") describes the information that we collect,how we obtain the information, and how we may use or disclose that infor</key>
+        <language>uk</language>
+        <message>Ми поважаємо конфіденційність клієнтів, ділових партнерів та відвідувачів веб-сайту (як визначено нижче). Ця політика конфіденційності («Політика») описує інформацію, що ми збираємо, методи її отримання та використання, а також можливі причини розкриття. Ця Політика також описує заходи, які ми вживаємо для захисту інформації, та способи зв'язку з нами щодо нашої політики конфіденційності.</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>bogdan.felinskyi</sys_created_by>
+        <sys_created_on>2022-03-23 17:41:34</sys_created_on>
+        <sys_id>e3bf3cab1b96c910c069657bab4bcb36</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>We respect the privacy of its customers,business partners and visitors to its Website (as defined below). This Privacy Policy (the "Policy") describes the information that we collect,how we obtain the information, and how we may use or disclose that infor</sys_name>
+        <sys_package display_value="I18N: Ukrainian Translations" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="I18N: Ukrainian Translations">176ebda287b38910f4b131570cbb3551</sys_scope>
+        <sys_update_name>sys_ui_message_e3bf3cab1b96c910c069657bab4bcb36</sys_update_name>
+        <sys_updated_by>bogdan.felinskyi</sys_updated_by>
+        <sys_updated_on>2022-03-23 17:41:34</sys_updated_on>
+    </sys_ui_message>
+</record_update>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application/>
+        <code/>
+        <commented_message/>
+        <key>If removing a variable from the &amp;amp;#39;Selected&amp;amp;#39; list, it will be moved to &amp;amp;#39;Available&amp;amp;#39; list only if the variable is from the selected Template Catalog Items and Variable Sets. Otherwise, the variable is removed from both &amp;amp;#39</key>
+        <language>uk</language>
+        <message>При видаленні змінної з &amp;amp;#39;Вибрані&amp;amp;#39; вказати список, куди вона буде переміщена в &amp;amp;#39;Доступні&amp;amp;#39; вказати у списку, лише якщо змінна відноситься до вибраних елементів каталогу шаблонів та наборів змінних. В іншому випадку змінна видаляється з обох списків &amp;amp;#39;Доступні&amp;amp;#39; та &amp;amp;#39;Вибрані&amp;amp;#39;.</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>bogdan.felinskyi</sys_created_by>
+        <sys_created_on>2022-03-23 17:38:26</sys_created_on>
+        <sys_id>710f34a71b96c910c069657bab4bcbfd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>If removing a variable from the &amp;amp;#39;Selected&amp;amp;#39; list, it will be moved to &amp;amp;#39;Available&amp;amp;#39; list only if the variable is from the selected Template Catalog Items and Variable Sets. Otherwise, the variable is removed from both &amp;amp;#39</sys_name>
+        <sys_package display_value="I18N: Ukrainian Translations" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="I18N: Ukrainian Translations">176ebda287b38910f4b131570cbb3551</sys_scope>
+        <sys_update_name>sys_ui_message_710f34a71b96c910c069657bab4bcbfd</sys_update_name>
+        <sys_updated_by>bogdan.felinskyi</sys_updated_by>
+        <sys_updated_on>2022-03-23 17:38:26</sys_updated_on>
+    </sys_ui_message>
+</record_update>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application/>
+        <code/>
+        <commented_message/>
+        <key>when nlu predicted multiple intents from a user’s utterance,  the va suggested options for the user to choose from. if the user did not select one, the nlu failed to predict an appropriate intent.</key>
+        <language>uk</language>
+        <message>Якщо NLU прогнозував кілька намірів із фрагмента користувача, VA запропонував варіанти вибору користувача. Якщо користувач не вибрав варіант, NLU не вдалося спрогнозувати відповідний намір.</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>bogdan.felinskyi</sys_created_by>
+        <sys_created_on>2022-03-23 17:35:13</sys_created_on>
+        <sys_id>5e4eb4631b96c910c069657bab4bcbd0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>when nlu predicted multiple intents from a user’s utterance,  the va suggested options for the user to choose from. if the user did not select one, the nlu failed to predict an appropriate intent.</sys_name>
+        <sys_package display_value="I18N: Ukrainian Translations" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="I18N: Ukrainian Translations">176ebda287b38910f4b131570cbb3551</sys_scope>
+        <sys_update_name>sys_ui_message_5e4eb4631b96c910c069657bab4bcbd0</sys_update_name>
+        <sys_updated_by>bogdan.felinskyi</sys_updated_by>
+        <sys_updated_on>2022-03-23 17:35:13</sys_updated_on>
+    </sys_ui_message>
+</record_update>

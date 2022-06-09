@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application/>
+        <code/>
+        <commented_message/>
+        <key>&lt;p&gt;&lt;span style="font-family: helvetica; font-size: 11pt;"&gt;To use SSO to authenticate users, you need to generate metadata with the new Custom URL and then configure it with the your IdP to start using the &lt;b&gt;{0}&lt;/b&gt; going forward. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span styl</key>
+        <language>uk</language>
+        <message>&lt;p&gt;&lt;span style="font-family: helvetica; font-size: 11pt;"&gt;Щоб використовувати єдиний вхід для перевірки автентичності користувачів, необхідно створити нові метадані за допомогою нової URL-адреси, і налаштувати його з вашим постачальником посвідчень , щоб розпочати роботу з &lt;b&gt;{0}&lt;/b&gt; надалі. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-family: helvetica; font-size: 11pt;"&gt;Клацніть {1} для отримання відомостей про те, як створювати та експортувати метадані ServiceNow та оновлювати конфігурацію вашого постачальника посвідчень. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-family: helvetica; font-size: 11pt;"&gt;Якщо ваша URL-адреса впливає на електронну пошту, виберіть відповідне посилання:&lt;/span&gt;&lt; /p&gt;&lt;li&gt;{2}&lt;/li&gt;&lt;li&gt;{3}&lt;/li&gt;&lt;li&gt;{4}&lt;/li&gt;</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>bogdan.felinskyi</sys_created_by>
+        <sys_created_on>2022-03-23 17:36:23</sys_created_on>
+        <sys_id>a38e70e31b96c910c069657bab4bcbbd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>&lt;p&gt;&lt;span style="font-family: helvetica; font-size: 11pt;"&gt;To use SSO to authenticate users, you need to generate metadata with the new Custom URL and then configure it with the your IdP to start using the &lt;b&gt;{0}&lt;/b&gt; going forward. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span styl</sys_name>
+        <sys_package display_value="I18N: Ukrainian Translations" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="I18N: Ukrainian Translations">176ebda287b38910f4b131570cbb3551</sys_scope>
+        <sys_update_name>sys_ui_message_a38e70e31b96c910c069657bab4bcbbd</sys_update_name>
+        <sys_updated_by>bogdan.felinskyi</sys_updated_by>
+        <sys_updated_on>2022-03-23 17:36:23</sys_updated_on>
+    </sys_ui_message>
+</record_update>

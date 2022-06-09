@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application/>
+        <code/>
+        <commented_message/>
+        <key>If checked, a Discovery schedule will be created for the subnets and routers for each location specified in the previous step. If not checked, one Discovery schedule will be created for all subnets and routers.</key>
+        <language>uk</language>
+        <message>Якщо прапорець встановлений, буде створено розклад Discovery для підмереж та маршрутизаторів для кожного місця, вказаного на попередньому етапі. Якщо прапорець не встановлений, буде створено один розклад Discovery для всіх підмереж та маршрутизаторів.</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>bogdan.felinskyi</sys_created_by>
+        <sys_created_on>2022-03-23 17:38:26</sys_created_on>
+        <sys_id>e10f34a71b96c910c069657bab4bcbf5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>If checked, a Discovery schedule will be created for the subnets and routers for each location specified in the previous step. If not checked, one Discovery schedule will be created for all subnets and routers.</sys_name>
+        <sys_package display_value="I18N: Ukrainian Translations" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="I18N: Ukrainian Translations">176ebda287b38910f4b131570cbb3551</sys_scope>
+        <sys_update_name>sys_ui_message_e10f34a71b96c910c069657bab4bcbf5</sys_update_name>
+        <sys_updated_by>bogdan.felinskyi</sys_updated_by>
+        <sys_updated_on>2022-03-23 17:38:26</sys_updated_on>
+    </sys_ui_message>
+</record_update>

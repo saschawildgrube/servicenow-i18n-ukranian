@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application/>
+        <code/>
+        <commented_message/>
+        <key>Preview how components, scripts, and data resources will render with test values. This applies to anything you create in UI Builder. For example, you can use the table "incident" as a test value to populate actual data into a page.</key>
+        <language>uk</language>
+        <message>Попередній перегляд компонентів, сценаріїв та ресурсів даних із тестовими значеннями. Застосовується до всього вмісту, що створюється в конструкторі інтерфейсу користувача. Наприклад, можна використовувати таблицю «Інцидент» як тестове значення для заповнення фактичних даних на сторінці.</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>bogdan.felinskyi</sys_created_by>
+        <sys_created_on>2022-03-23 17:41:57</sys_created_on>
+        <sys_id>dddff4eb1b96c910c069657bab4bcb50</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Preview how components, scripts, and data resources will render with test values. This applies to anything you create in UI Builder. For example, you can use the table "incident" as a test value to populate actual data into a page.</sys_name>
+        <sys_package display_value="I18N: Ukrainian Translations" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="I18N: Ukrainian Translations">176ebda287b38910f4b131570cbb3551</sys_scope>
+        <sys_update_name>sys_ui_message_dddff4eb1b96c910c069657bab4bcb50</sys_update_name>
+        <sys_updated_by>bogdan.felinskyi</sys_updated_by>
+        <sys_updated_on>2022-03-23 17:41:57</sys_updated_on>
+    </sys_ui_message>
+</record_update>

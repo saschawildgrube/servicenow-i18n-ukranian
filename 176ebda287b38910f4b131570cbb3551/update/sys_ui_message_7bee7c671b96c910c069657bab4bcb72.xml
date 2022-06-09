@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application/>
+        <code/>
+        <commented_message/>
+        <key>Extending a table is a way to create a new table and share both the fields and business logic of an existing table. You can’t change the shared fields – you can only add new fields to the table. Adding new fields doesn’t impact the existing table.</key>
+        <language>uk</language>
+        <message>Розширення таблиці – це спосіб створення нової таблиці та надання загального доступу до полів та бізнес-логіки існуючої таблиці. Ви не можете змінювати спільні поля — ви можете лише додавати нові поля до таблиці. Додавання нових полів не впливає на наявну таблицю.</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>bogdan.felinskyi</sys_created_by>
+        <sys_created_on>2022-03-23 17:38:02</sys_created_on>
+        <sys_id>7bee7c671b96c910c069657bab4bcb72</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Extending a table is a way to create a new table and share both the fields and business logic of an existing table. You can’t change the shared fields – you can only add new fields to the table. Adding new fields doesn’t impact the existing table.</sys_name>
+        <sys_package display_value="I18N: Ukrainian Translations" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="I18N: Ukrainian Translations">176ebda287b38910f4b131570cbb3551</sys_scope>
+        <sys_update_name>sys_ui_message_7bee7c671b96c910c069657bab4bcb72</sys_update_name>
+        <sys_updated_by>bogdan.felinskyi</sys_updated_by>
+        <sys_updated_on>2022-03-23 17:38:02</sys_updated_on>
+    </sys_ui_message>
+</record_update>

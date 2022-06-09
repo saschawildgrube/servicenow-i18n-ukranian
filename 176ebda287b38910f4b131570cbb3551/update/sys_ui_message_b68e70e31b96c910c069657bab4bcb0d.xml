@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application/>
+        <code/>
+        <commented_message/>
+        <key>. No warranty is provided under these Terms. Any warranty you may have under the MOA or other customer agreement with respect to ServiceNow Software will apply to the Software. PROVIDED THE FOREGOING, to the maximum extent allowed by law, ServiceNow discl</key>
+        <language>uk</language>
+        <message>За цими умовами не надається жодних гарантій. Будь-яка гарантія на ПЗ ServiceNow, що надається згідно з меморандумом про домовленість або іншим клієнтським договором, буде застосована до цього ПЗ. Враховуючи вищевикладене, в тій мірі, в якій це дозволено законом, ServiceNow відмовляється від усіх гарантій будь-якого роду, явних або розумних, усних або письмових, включаючи гарантії, що виникають в силу закону, гарантії комерційного застосування, точності, законності права власності, відсутності порушень прав інтелектуальної власності та придатності для певної мети або будь-які гарантії, що виникають внаслідок торговельного звичаю, практики ведення ділових операцій чи ходу виконання контракту.</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>bogdan.felinskyi</sys_created_by>
+        <sys_created_on>2022-03-23 17:36:20</sys_created_on>
+        <sys_id>b68e70e31b96c910c069657bab4bcb0d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>. No warranty is provided under these Terms. Any warranty you may have under the MOA or other customer agreement with respect to ServiceNow Software will apply to the Software. PROVIDED THE FOREGOING, to the maximum extent allowed by law, ServiceNow discl</sys_name>
+        <sys_package display_value="I18N: Ukrainian Translations" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="I18N: Ukrainian Translations">176ebda287b38910f4b131570cbb3551</sys_scope>
+        <sys_update_name>sys_ui_message_b68e70e31b96c910c069657bab4bcb0d</sys_update_name>
+        <sys_updated_by>bogdan.felinskyi</sys_updated_by>
+        <sys_updated_on>2022-03-23 17:36:20</sys_updated_on>
+    </sys_ui_message>
+</record_update>

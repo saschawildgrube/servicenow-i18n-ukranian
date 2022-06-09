@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application/>
+        <code/>
+        <commented_message/>
+        <key>To remediate the issue, follow these steps:
+
+1. If you want to keep your changes, then copy the relevant changes from the customized Global files into their equivalent Scoped files.
+2.Once you are ready to restart the migration process after copying the</key>
+        <language>uk</language>
+        <message>Щоб вирішити цю проблему, виконайте наведені нижче дії. 1. Якщо необхідно зберегти внесені зміни, скопіюйте їх з глобальних файлів, що настроюються, і вставте в аналогічні файли області дії. 2. Якщо все готове до перезапуску процесу переносу після копіювання змін, а також якщо необхідно ігнорувати будь-які налаштування для процесу переносу, створіть або оновіть властивість "{0}" до значення "істина". 3. Повторно активуйте заплановане завдання {1}. Повторний запуск процесу переносу може тривати кілька хвилин.</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>bogdan.felinskyi</sys_created_by>
+        <sys_created_on>2022-03-23 17:36:17</sys_created_on>
+        <sys_id>968e30e31b96c910c069657bab4bcb10</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>To remediate the issue, follow these steps:
+
+1. If you want to keep your changes, then copy the relevant changes from the customized Global files into their equivalent Scoped files.
+2.Once you are ready to restart the migration process after copying the</sys_name>
+        <sys_package display_value="I18N: Ukrainian Translations" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="I18N: Ukrainian Translations">176ebda287b38910f4b131570cbb3551</sys_scope>
+        <sys_update_name>sys_ui_message_968e30e31b96c910c069657bab4bcb10</sys_update_name>
+        <sys_updated_by>bogdan.felinskyi</sys_updated_by>
+        <sys_updated_on>2022-03-23 17:36:17</sys_updated_on>
+    </sys_ui_message>
+</record_update>

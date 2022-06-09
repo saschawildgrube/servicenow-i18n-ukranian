@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application/>
+        <code/>
+        <commented_message/>
+        <key>The system will attempt to update the reference qualifiers listed below. When the update has finished, the system will display a list of reference qualifiers it could not update automatically because custom qualifiers were already defined. You will have t</key>
+        <language>uk</language>
+        <message>Система спробує оновити кваліфікатори посилань, наведені нижче. Після завершення оновлення система відобразить список кваліфікаторів посилань, які не вдалося оновити автоматично, оскільки вже були визначені кваліфікатори. Ви матимете можливість оновити їх вручну.</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>bogdan.felinskyi</sys_created_by>
+        <sys_created_on>2022-03-23 17:40:56</sys_created_on>
+        <sys_id>de9f30ab1b96c910c069657bab4bcb4b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>The system will attempt to update the reference qualifiers listed below. When the update has finished, the system will display a list of reference qualifiers it could not update automatically because custom qualifiers were already defined. You will have t</sys_name>
+        <sys_package display_value="I18N: Ukrainian Translations" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="I18N: Ukrainian Translations">176ebda287b38910f4b131570cbb3551</sys_scope>
+        <sys_update_name>sys_ui_message_de9f30ab1b96c910c069657bab4bcb4b</sys_update_name>
+        <sys_updated_by>bogdan.felinskyi</sys_updated_by>
+        <sys_updated_on>2022-03-23 17:40:56</sys_updated_on>
+    </sys_ui_message>
+</record_update>

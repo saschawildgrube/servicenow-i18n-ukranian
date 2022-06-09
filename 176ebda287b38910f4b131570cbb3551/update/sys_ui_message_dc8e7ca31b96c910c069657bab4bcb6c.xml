@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application/>
+        <code/>
+        <commented_message/>
+        <key>if the issue rating is changed, the due date will be changed. if an sla is present, it will be cancelled and a new one created with the new due date. continue?</key>
+        <language>uk</language>
+        <message>Якщо оцінка проблеми змінена, термін виконання також буде змінено. Якщо угода про рівень послуг є, вона буде скасована і замість неї створено нове з новим терміном виконання. Продовжити?</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>bogdan.felinskyi</sys_created_by>
+        <sys_created_on>2022-03-23 17:36:10</sys_created_on>
+        <sys_id>dc8e7ca31b96c910c069657bab4bcb6c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>if the issue rating is changed, the due date will be changed. if an sla is present, it will be cancelled and a new one created with the new due date. continue?</sys_name>
+        <sys_package display_value="I18N: Ukrainian Translations" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="I18N: Ukrainian Translations">176ebda287b38910f4b131570cbb3551</sys_scope>
+        <sys_update_name>sys_ui_message_dc8e7ca31b96c910c069657bab4bcb6c</sys_update_name>
+        <sys_updated_by>bogdan.felinskyi</sys_updated_by>
+        <sys_updated_on>2022-03-23 17:36:10</sys_updated_on>
+    </sys_ui_message>
+</record_update>

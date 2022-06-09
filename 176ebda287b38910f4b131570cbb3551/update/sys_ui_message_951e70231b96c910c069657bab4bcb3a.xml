@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application/>
+        <code/>
+        <commented_message/>
+        <key>specify who can access this experience by choosing one or more roles. if you want to make this accessible to everyone, leave the field blank. if you don't see a role you'd like in this list, go to security to create a custom role and restart the mobile se</key>
+        <language>uk</language>
+        <message>Вкажіть, хто може мати доступ до цього інтерфейсу, вибравши одну або кілька ролей. Якщо ви хочете зробити його доступним для всіх, залиште поле порожнім. Якщо ви не бачите роль, яка вам потрібна, у цьому списку, перейдіть в Security, щоб створити роль, що настроюється, і перезапустіть процес налаштування мобільного пристрою ще раз.</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>bogdan.felinskyi</sys_created_by>
+        <sys_created_on>2022-03-23 17:34:19</sys_created_on>
+        <sys_id>951e70231b96c910c069657bab4bcb3a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>specify who can access this experience by choosing one or more roles. if you want to make this accessible to everyone, leave the field blank. if you don't see a role you'd like in this list, go to security to create a custom role and restart the mobile se</sys_name>
+        <sys_package display_value="I18N: Ukrainian Translations" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="I18N: Ukrainian Translations">176ebda287b38910f4b131570cbb3551</sys_scope>
+        <sys_update_name>sys_ui_message_951e70231b96c910c069657bab4bcb3a</sys_update_name>
+        <sys_updated_by>bogdan.felinskyi</sys_updated_by>
+        <sys_updated_on>2022-03-23 17:34:19</sys_updated_on>
+    </sys_ui_message>
+</record_update>

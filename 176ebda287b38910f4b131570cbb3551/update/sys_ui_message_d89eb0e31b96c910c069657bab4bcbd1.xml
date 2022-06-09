@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application/>
+        <code/>
+        <commented_message/>
+        <key>Access Control Rule Info</key>
+        <language>uk</language>
+        <message>Правила керування доступом дозволяють доступ до зазначеного ресурсу, якщо &lt;i&gt;всі три&lt;/i&gt; наступні перевірки повернуть значення true: &lt;ol&gt; &lt;li&gt;Користувач має одну з ролей, зазначених у списку &lt;b&gt;Роль&lt;/b&gt;, або список порожній.&lt;/li&gt; &lt;li&gt;Умови у полі &lt;b&gt;Умова&lt;/b&gt; повертають значення true, або умови порожні.&lt;/li&gt; &lt;li&gt;Сценарій у полі &lt;b&gt;Сценарій&lt;/b&gt; (розширений параметр ) повертає значення true, або надає змінній відповіді значення true, або порожній.&lt;/li&gt; &lt;/ol&gt; Ці три перевірки виконуються незалежно (у порядку, відображеному вище). &lt;p&gt;&lt;/p&gt; &lt;a id="permalink" class="linked" style="color:#666666;" href="${gs.getProperty('help.base.servicenow')}Using_Access_Control_Rules" target="_blank"&gt;${gs.getMessage(""Докладніше"")}&lt;/a&gt;</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>bogdan.felinskyi</sys_created_by>
+        <sys_created_on>2022-03-23 17:36:26</sys_created_on>
+        <sys_id>d89eb0e31b96c910c069657bab4bcbd1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Access Control Rule Info</sys_name>
+        <sys_package display_value="I18N: Ukrainian Translations" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="I18N: Ukrainian Translations">176ebda287b38910f4b131570cbb3551</sys_scope>
+        <sys_update_name>sys_ui_message_d89eb0e31b96c910c069657bab4bcbd1</sys_update_name>
+        <sys_updated_by>bogdan.felinskyi</sys_updated_by>
+        <sys_updated_on>2022-03-23 17:36:26</sys_updated_on>
+    </sys_ui_message>
+</record_update>

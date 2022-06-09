@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application/>
+        <code/>
+        <commented_message/>
+        <key>A field that is disabled in an article template will no longer be displayed in the article view page. However, it will be displayed in the article edit form. To permanently remove the field, remove it from the edit form as well. Then, regenerate text inde</key>
+        <language>uk</language>
+        <message>Поле, яке вимкнено у шаблоні статті, більше не відображатиметься на сторінці представлення статті. Але воно відображатиметься у формі редагування статті. Щоб видалити поле, видаліть його також із форми редагування. Знову згенеруйте текстовий індекс для таблиці шаблонів, щоб очистити індекс, пов'язаний з деактивованими полями.</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>bogdan.felinskyi</sys_created_by>
+        <sys_created_on>2022-03-23 17:36:23</sys_created_on>
+        <sys_id>7f8e70e31b96c910c069657bab4bcbf7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>A field that is disabled in an article template will no longer be displayed in the article view page. However, it will be displayed in the article edit form. To permanently remove the field, remove it from the edit form as well. Then, regenerate text inde</sys_name>
+        <sys_package display_value="I18N: Ukrainian Translations" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="I18N: Ukrainian Translations">176ebda287b38910f4b131570cbb3551</sys_scope>
+        <sys_update_name>sys_ui_message_7f8e70e31b96c910c069657bab4bcbf7</sys_update_name>
+        <sys_updated_by>bogdan.felinskyi</sys_updated_by>
+        <sys_updated_on>2022-03-23 17:36:23</sys_updated_on>
+    </sys_ui_message>
+</record_update>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application>Financial Management</application>
+        <code/>
+        <commented_message/>
+        <key>itfm.wb.Your changes to the IT Chart of Accounts Hierarchy have not been saved. Are you sure you want to leave without saving</key>
+        <language>uk</language>
+        <message>Існують незбережені зміни в ІТ-діаграмі ієрархії облікових записів. Вийти без збереження змін?</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>bogdan.felinskyi</sys_created_by>
+        <sys_created_on>2022-03-23 17:38:44</sys_created_on>
+        <sys_id>821f30e71b96c910c069657bab4bcb61</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>itfm.wb.Your changes to the IT Chart of Accounts Hierarchy have not been saved. Are you sure you want to leave without saving</sys_name>
+        <sys_package display_value="I18N: Ukrainian Translations" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="I18N: Ukrainian Translations">176ebda287b38910f4b131570cbb3551</sys_scope>
+        <sys_update_name>sys_ui_message_821f30e71b96c910c069657bab4bcb61</sys_update_name>
+        <sys_updated_by>bogdan.felinskyi</sys_updated_by>
+        <sys_updated_on>2022-03-23 17:38:44</sys_updated_on>
+    </sys_ui_message>
+</record_update>

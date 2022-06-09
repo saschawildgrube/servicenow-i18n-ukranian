@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application/>
+        <code/>
+        <commented_message/>
+        <key>Application service reached its maximal depth {0}. Consider splitting this service into smaller services or change the computation depth property.</key>
+        <language>uk</language>
+        <message>Служба додатків досягла максимальної глибини {0}. Розгляньте можливість розділення цієї служби на менші служби або змініть властивість глибини обчислення.</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>bogdan.felinskyi</sys_created_by>
+        <sys_created_on>2022-03-23 17:36:41</sys_created_on>
+        <sys_id>80aef8e31b96c910c069657bab4bcba3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Application service reached its maximal depth {0}. Consider splitting this service into smaller services or change the computation depth property.</sys_name>
+        <sys_package display_value="I18N: Ukrainian Translations" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="I18N: Ukrainian Translations">176ebda287b38910f4b131570cbb3551</sys_scope>
+        <sys_update_name>sys_ui_message_80aef8e31b96c910c069657bab4bcba3</sys_update_name>
+        <sys_updated_by>bogdan.felinskyi</sys_updated_by>
+        <sys_updated_on>2022-03-23 17:36:41</sys_updated_on>
+    </sys_ui_message>
+</record_update>

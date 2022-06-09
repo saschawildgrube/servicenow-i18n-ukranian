@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application/>
+        <code/>
+        <commented_message/>
+        <key>tenable vulnerability detection records can have one of several states – ‘open’, ’reopened’ and ‘fixed’. by default, vr creates vulnerable items for detection records which are in the ‘open’ and ’reopened’ states, because these records require remediation</key>
+        <language>uk</language>
+        <message>Записи виявлення вразливостей Tenable можуть мати один із таких станів: «Відкрита», «Відкрита повторно» та «Виправлена». За умовчанням VR створює вразливі елементи для записів виявлення у станах «Відкрита» та «Відкрита повторно», оскільки ці записи вимагають виправлення. VR не створює вразливі елементи для виправлених виявлень. Однак, якщо виявлено, VR оновлює стан існуючих вразливих елементів.</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>bogdan.felinskyi</sys_created_by>
+        <sys_created_on>2022-03-23 17:35:40</sys_created_on>
+        <sys_id>c96e30a31b96c910c069657bab4bcb60</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>tenable vulnerability detection records can have one of several states – ‘open’, ’reopened’ and ‘fixed’. by default, vr creates vulnerable items for detection records which are in the ‘open’ and ’reopened’ states, because these records require remediation</sys_name>
+        <sys_package display_value="I18N: Ukrainian Translations" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="I18N: Ukrainian Translations">176ebda287b38910f4b131570cbb3551</sys_scope>
+        <sys_update_name>sys_ui_message_c96e30a31b96c910c069657bab4bcb60</sys_update_name>
+        <sys_updated_by>bogdan.felinskyi</sys_updated_by>
+        <sys_updated_on>2022-03-23 17:35:40</sys_updated_on>
+    </sys_ui_message>
+</record_update>

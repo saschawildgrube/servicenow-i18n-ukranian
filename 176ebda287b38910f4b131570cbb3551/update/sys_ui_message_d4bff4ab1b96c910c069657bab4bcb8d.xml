@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application/>
+        <code/>
+        <commented_message/>
+        <key>undelete_notes</key>
+        <language>uk</language>
+        <message>&lt;p&gt; Цей процес відновить віддалений запис та будь-які пов'язані з ним посилання аудиту. Для виконання операції потрібно багато часу, вона виконуватиметься у фоновому режимі. Виконавець просування повідомлятиме про стан відновлення через певні проміжки часу. Сторінку стану можна покинути у будь-який час – це не вплине на процес відновлення. &lt;/p&gt; &lt;p&gt; Зверніть увагу на такі зауваження. &lt;ul&gt; &lt;li&gt;Відновлення виконується до перевірених таблиць:$[SP] &lt;a href="http://docs.servicenow.com/?context=Understanding_the_sys_audit_Table" target="_blank"&gt;Аудит&lt;/a&gt;&lt;/li &gt; &lt;li&gt;Виконується лише відновлення прямих посилань:$[SP] &lt;a href="http://docs.servicenow.com/?context=Reference_Fields" target="_blank"&gt;Поля посилань&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;/p&gt; &lt;h5&gt;Приклад 1&lt;/h5&gt; &lt;p&gt; Запис &lt;b&gt;$[SP]користувача$[SP]&lt;/b&gt; [sys_user] Бет Енглін (Beth Anglin) видалено, і його ім'я видалено з полів &lt;b&gt;$[SP]Абонент$[SP]&lt;/b&gt; (caller_id) та &lt;b&gt;$[SP]Призначено$[SP]&lt;/b&gt; (assigned_to) у всіх інцидентах, де воно міститься . Потім видалення запису користувача Бет &lt;i&gt;$[SP]видаляється&lt;/i&gt;, що вимагає відновлення всіх зв'язків, що підлягають аудиту. Зважаючи на те, що таблиця &lt;b&gt;$[SP]інцидентів$[SP]&lt;/b&gt; [incident] підлягає аудиту, а поля &lt;b&gt;$[SP]Абонент$[SP]&lt;/b&gt; та &lt;b&gt;$ [SP]Призначено$[SP]&lt;/b&gt; має пряме посилання на таблицю &lt;b&gt;$[SP]Користувач,$[SP]&lt;/b&gt; ім'я Бет Енглін відновлено у всіх інцидентах, на які воно посилалося. Цей процес також спробує відновлення всіх записів, видалених в результаті &lt;i&gt;$[SP]каскадного видалення$[SP]&lt;/i&gt; тобто, &lt;i&gt;$[SP]нам необхідно скасувати видалення$[SP]&lt; /i&gt; записів, які були видалені в результаті видалення запису користувача Бет. &lt;/p&gt; &lt;h5&gt;Приклад 2&lt;/h5&gt; &lt;p&gt; Запис &lt;b&gt;$[SP]Стійка$[SP]&lt;/b&gt; [cmdb_ci_rack] видалена, і всі &lt;b&gt;$[SP]Ставлення КЕ$ [SP]&lt;/b&gt; [cmdb_rel_ci], які посилаються на окремий запис &lt;b&gt;$[SP]Стійка$[SP]&lt;/b&gt; також видалені. Таблиця &lt;b&gt;$[SP]Відносини КЕ$[SP]&lt;/b&gt; зберігає інформацію про відносини, такі як &lt;b&gt;$[SP]Залежить від&lt;/b&gt;, &lt;b&gt;$[SP]З'єднується з&lt;/ b&gt;, а також &lt;b&gt;$[SP]Зміст&lt;/b&gt;. Після відновлення запису стійки, ми також відновили всі записи відносин КЕ, виходячи з припущення, що таблиця &lt;b&gt;$[SP]Відносини КЕ$[SP]&lt;/b&gt; підлягає аудиту, у той час як у нас є записи про ці видалення у таблиці &lt;b&gt;$[SP]Відповідні аудиту видалення$[SP]&lt;/b&gt; [sys_audit_delete]. &lt;/p&gt;</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>bogdan.felinskyi</sys_created_by>
+        <sys_created_on>2022-03-23 17:41:20</sys_created_on>
+        <sys_id>d4bff4ab1b96c910c069657bab4bcb8d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>undelete_notes</sys_name>
+        <sys_package display_value="I18N: Ukrainian Translations" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="I18N: Ukrainian Translations">176ebda287b38910f4b131570cbb3551</sys_scope>
+        <sys_update_name>sys_ui_message_d4bff4ab1b96c910c069657bab4bcb8d</sys_update_name>
+        <sys_updated_by>bogdan.felinskyi</sys_updated_by>
+        <sys_updated_on>2022-03-23 17:41:20</sys_updated_on>
+    </sys_ui_message>
+</record_update>

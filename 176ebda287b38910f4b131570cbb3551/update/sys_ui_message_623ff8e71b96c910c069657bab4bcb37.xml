@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application/>
+        <code/>
+        <commented_message/>
+        <key>OAuth oidc provider general info</key>
+        <language>uk</language>
+        <message>Відомості про постачальника OAuth OIDC. &lt;ul&gt; &lt;li&gt;&lt;b&gt;Ім'я:&lt;/b&gt; унікальне ім'я.&lt;/li&gt; &lt;li&gt;&lt;b&gt;Ідентифікатор клієнта:&lt;/b&gt; ідентифікатор клієнта програми, зареєстрованої на сторонньому сервері OAuth OIDC.&lt;/li&gt; &lt;li&gt;&lt;b&gt;Client Secret:&lt;/b&gt; Секретний ключ клієнта:&lt;/b&gt; секретний ключ клієнта програми, зареєстрованої на сторонньому сервері OAuth OIDC.&lt;/li&gt; &lt;li&gt;&lt;b&gt;Конфігурація постачальника OAuth OIDC:&lt;/ b&gt; конфігурація постачальника OAuth OIDC, що використовується для перевірки маркера JWT у запиті. &lt;/li&gt; &lt;li&gt;&lt;b&gt;Примусове обмеження маркера:&lt;/b&gt; обмежує використання маркера доступу до інтерфейсу API, визначеного в &lt;a id="permalink" class="linked" style="color:#666666;" href="/sys_api_access_policy_list.do" target="_blank"&gt;${gs.getMessage("Політики доступу REST API")}&lt;/a&gt;. При знятті даного прапорця можна використовувати маркер доступу в інших REST API. &lt;a id="permalink" class="linked" style="color:#666666;" href="${gs.getProperty('help.base.servicenow')}CSHelp:OAuthSetup_EnforceTokenRestriction" target="_blank"&gt;${gs.getMessage("Додаткова інформація")}&lt;/a&gt;. &lt;/li&gt; &lt;/ul&gt;</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>bogdan.felinskyi</sys_created_by>
+        <sys_created_on>2022-03-23 17:39:19</sys_created_on>
+        <sys_id>623ff8e71b96c910c069657bab4bcb37</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>OAuth oidc provider general info</sys_name>
+        <sys_package display_value="I18N: Ukrainian Translations" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="I18N: Ukrainian Translations">176ebda287b38910f4b131570cbb3551</sys_scope>
+        <sys_update_name>sys_ui_message_623ff8e71b96c910c069657bab4bcb37</sys_update_name>
+        <sys_updated_by>bogdan.felinskyi</sys_updated_by>
+        <sys_updated_on>2022-03-23 17:39:19</sys_updated_on>
+    </sys_ui_message>
+</record_update>

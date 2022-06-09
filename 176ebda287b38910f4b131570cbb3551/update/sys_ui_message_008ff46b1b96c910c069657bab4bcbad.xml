@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application/>
+        <code/>
+        <commented_message/>
+        <key>SSO Login tests succeeded. SSO Logout tests failed. IDP Configuration can be activated by clicking 'Activate' button. Users will be able to login and logout of the instance, but will not be logged out of the IDP. Please refer to the logs for test details.</key>
+        <language>uk</language>
+        <message>Тести єдиного входу успішно завершено. Не вдалося виконати тести єдиного виходу із системи. IDP конфігурацію можна використовувати, натиснувши кнопку "Активувати". Користувачі зможуть увійти в систему та вийти з неї, але не вийдуть із системи IDP. Див. журнали для перевірки відомостей.</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>bogdan.felinskyi</sys_created_by>
+        <sys_created_on>2022-03-23 17:40:30</sys_created_on>
+        <sys_id>008ff46b1b96c910c069657bab4bcbad</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SSO Login tests succeeded. SSO Logout tests failed. IDP Configuration can be activated by clicking 'Activate' button. Users will be able to login and logout of the instance, but will not be logged out of the IDP. Please refer to the logs for test details.</sys_name>
+        <sys_package display_value="I18N: Ukrainian Translations" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="I18N: Ukrainian Translations">176ebda287b38910f4b131570cbb3551</sys_scope>
+        <sys_update_name>sys_ui_message_008ff46b1b96c910c069657bab4bcbad</sys_update_name>
+        <sys_updated_by>bogdan.felinskyi</sys_updated_by>
+        <sys_updated_on>2022-03-23 17:40:30</sys_updated_on>
+    </sys_ui_message>
+</record_update>

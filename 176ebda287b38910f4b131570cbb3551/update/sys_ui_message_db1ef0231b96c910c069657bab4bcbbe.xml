@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application/>
+        <code/>
+        <commented_message/>
+        <key>we have detected an issue with your service {2} and have created a case to track it. to view the request replicated to your instance click [code]\u003ca href\u003d\u0027{0}/sp?id\u003dticket\u0026table\u003dsn_nowebonding_remote_request\u0026sys_id\u003d{</key>
+        <language>uk</language>
+        <message>Ми виявили проблему з вашою службою {2} і створили заявку на її відстеження. Щоб переглянути запит, реплдикований у ваш екземпляр, клацніть [code]\u003ca href\u003d\u0027{0}/sp?id\u003dticket\u0026table\u003dsn_nowebonding_remote_request\u002000 u003ehere\u003c/a\u003e[/code].</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>bogdan.felinskyi</sys_created_by>
+        <sys_created_on>2022-03-23 17:34:27</sys_created_on>
+        <sys_id>db1ef0231b96c910c069657bab4bcbbe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>we have detected an issue with your service {2} and have created a case to track it. to view the request replicated to your instance click [code]\u003ca href\u003d\u0027{0}/sp?id\u003dticket\u0026table\u003dsn_nowebonding_remote_request\u0026sys_id\u003d{</sys_name>
+        <sys_package display_value="I18N: Ukrainian Translations" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="I18N: Ukrainian Translations">176ebda287b38910f4b131570cbb3551</sys_scope>
+        <sys_update_name>sys_ui_message_db1ef0231b96c910c069657bab4bcbbe</sys_update_name>
+        <sys_updated_by>bogdan.felinskyi</sys_updated_by>
+        <sys_updated_on>2022-03-23 17:34:27</sys_updated_on>
+    </sys_ui_message>
+</record_update>

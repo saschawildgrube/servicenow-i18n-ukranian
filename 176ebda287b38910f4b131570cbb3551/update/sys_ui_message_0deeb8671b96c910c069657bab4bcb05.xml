@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application/>
+        <code/>
+        <commented_message/>
+        <key>Email Notification Form Weight Field Description</key>
+        <language>uk</language>
+        <message>Коли в папці "Вихідні" є кілька повідомлень з однієї &lt;b&gt;таблиці&lt;/b&gt;, адресованих одному одержувачу, надсилаються повідомлення з &lt;i&gt;найбільшою&lt;/i&gt; вагою — значення за замовчуванням, що дорівнює 0, змушує ServiceNow завжди надсилати це повідомлення (у випадках, коли &lt;b&gt;умови&lt;/b&gt; дотримані)</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>bogdan.felinskyi</sys_created_by>
+        <sys_created_on>2022-03-23 17:37:51</sys_created_on>
+        <sys_id>0deeb8671b96c910c069657bab4bcb05</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Email Notification Form Weight Field Description</sys_name>
+        <sys_package display_value="I18N: Ukrainian Translations" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="I18N: Ukrainian Translations">176ebda287b38910f4b131570cbb3551</sys_scope>
+        <sys_update_name>sys_ui_message_0deeb8671b96c910c069657bab4bcb05</sys_update_name>
+        <sys_updated_by>bogdan.felinskyi</sys_updated_by>
+        <sys_updated_on>2022-03-23 17:37:51</sys_updated_on>
+    </sys_ui_message>
+</record_update>

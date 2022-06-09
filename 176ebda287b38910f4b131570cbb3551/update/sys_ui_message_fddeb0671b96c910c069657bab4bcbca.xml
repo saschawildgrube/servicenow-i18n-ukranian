@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application/>
+        <code/>
+        <commented_message/>
+        <key>Definition: A model created to classify and reduce duplication of hardware models when new models are identified. Only Hardware Models with a status of Match not found, Manufacturer Normalized, Partially Normalized or Manually Normalized will be transferr</key>
+        <language>uk</language>
+        <message>Визначення. Модель, створена для класифікації та скорочення дублювання моделей обладнання щодо нових моделей. Передаватимуться лише моделі обладнання зі статусом Збігів не знайдено, Нормалізовано виробником, Частково нормалізовано або Нормалізовано вручну.</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>bogdan.felinskyi</sys_created_by>
+        <sys_created_on>2022-03-23 17:37:37</sys_created_on>
+        <sys_id>fddeb0671b96c910c069657bab4bcbca</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Definition: A model created to classify and reduce duplication of hardware models when new models are identified. Only Hardware Models with a status of Match not found, Manufacturer Normalized, Partially Normalized or Manually Normalized will be transferr</sys_name>
+        <sys_package display_value="I18N: Ukrainian Translations" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="I18N: Ukrainian Translations">176ebda287b38910f4b131570cbb3551</sys_scope>
+        <sys_update_name>sys_ui_message_fddeb0671b96c910c069657bab4bcbca</sys_update_name>
+        <sys_updated_by>bogdan.felinskyi</sys_updated_by>
+        <sys_updated_on>2022-03-23 17:37:37</sys_updated_on>
+    </sys_ui_message>
+</record_update>

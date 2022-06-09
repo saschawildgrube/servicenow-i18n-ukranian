@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application/>
+        <code/>
+        <commented_message/>
+        <key>Push Message Attribute Definition Description</key>
+        <language>uk</language>
+        <message>Визначення атрибутів push-повідомлень дозволяє створювати повторно використовувані властивості для вказівки вмісту push-повідомлень. Використовуйте визначення атрибута, щоб вказати сценарій дії надсилання або рядок, який можна використовувати у вмісті повідомлень з повідомленнями. &lt;br/&gt; &lt;br/&gt; &lt;ul&gt;&lt;li&gt;Дія: виберіть сценарій дії для push-повідомлення, який буде виконуватися, коли екземпляр отримуватиме відгук на push-повідомлення, що вимагає дій.&lt;/li&gt; &lt;li&gt;Рядок: вкажіть довільне значення рядка, який буде розміщено в атрибуті, який використовується у вмісті повідомлення. Наприклад, у рядку може бути вказана позначка кнопки.&lt;/li&gt; &lt;/ul&gt;&lt;br /&gt; &lt;a href="http://docs.servicenow.com/?context=CSHelp:Notifications-Push-Notification-Attribute- Definition" target="_blank" class="linked"&gt;Докладніше&lt;/a&gt;</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>bogdan.felinskyi</sys_created_by>
+        <sys_created_on>2022-03-23 17:39:45</sys_created_on>
+        <sys_id>785ff02b1b96c910c069657bab4bcb4e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Push Message Attribute Definition Description</sys_name>
+        <sys_package display_value="I18N: Ukrainian Translations" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="I18N: Ukrainian Translations">176ebda287b38910f4b131570cbb3551</sys_scope>
+        <sys_update_name>sys_ui_message_785ff02b1b96c910c069657bab4bcb4e</sys_update_name>
+        <sys_updated_by>bogdan.felinskyi</sys_updated_by>
+        <sys_updated_on>2022-03-23 17:39:45</sys_updated_on>
+    </sys_ui_message>
+</record_update>

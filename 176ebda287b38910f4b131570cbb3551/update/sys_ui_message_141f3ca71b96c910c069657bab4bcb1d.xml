@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application/>
+        <code/>
+        <commented_message/>
+        <key>Invalid values for {0}. Property ‘Calendar Event Duration(Minutes)’ is set to {1} mins. Values can be entered only in multiples of {1} mins. Invalid values are not saved.</key>
+        <language>uk</language>
+        <message>Неприпустимі значення для {0}. Для параметра «Тривалість події в календарі (хвилини)» встановлено значення {1} хв. Значення можна ввести лише у кількості {1} хв. Неприпустимі значення не зберігаються.</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>bogdan.felinskyi</sys_created_by>
+        <sys_created_on>2022-03-23 17:38:37</sys_created_on>
+        <sys_id>141f3ca71b96c910c069657bab4bcb1d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Invalid values for {0}. Property ‘Calendar Event Duration(Minutes)’ is set to {1} mins. Values can be entered only in multiples of {1} mins. Invalid values are not saved.</sys_name>
+        <sys_package display_value="I18N: Ukrainian Translations" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="I18N: Ukrainian Translations">176ebda287b38910f4b131570cbb3551</sys_scope>
+        <sys_update_name>sys_ui_message_141f3ca71b96c910c069657bab4bcb1d</sys_update_name>
+        <sys_updated_by>bogdan.felinskyi</sys_updated_by>
+        <sys_updated_on>2022-03-23 17:38:37</sys_updated_on>
+    </sys_ui_message>
+</record_update>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application/>
+        <code/>
+        <commented_message/>
+        <key>Touch screens don't support right clicking. Wherever context menus are available you'll see three stacked horizontal bars (&amp;#9776;). Tap the icon to view the context menu. Tap outside the context menu to hide it.</key>
+        <language>uk</language>
+        <message>Сенсорні екрани не підтримують клацання правою кнопкою миші. Якщо доступні контекстні меню, відобразяться три горизонтальні смуги (&amp;#9776;). Натисніть , щоб переглянути контекстне меню. Торкніться за межами контекстного меню, щоб приховати його.</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>bogdan.felinskyi</sys_created_by>
+        <sys_created_on>2022-03-23 17:41:14</sys_created_on>
+        <sys_id>eaaf74ab1b96c910c069657bab4bcbbf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Touch screens don't support right clicking. Wherever context menus are available you'll see three stacked horizontal bars (&amp;#9776;). Tap the icon to view the context menu. Tap outside the context menu to hide it.</sys_name>
+        <sys_package display_value="I18N: Ukrainian Translations" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="I18N: Ukrainian Translations">176ebda287b38910f4b131570cbb3551</sys_scope>
+        <sys_update_name>sys_ui_message_eaaf74ab1b96c910c069657bab4bcbbf</sys_update_name>
+        <sys_updated_by>bogdan.felinskyi</sys_updated_by>
+        <sys_updated_on>2022-03-23 17:41:14</sys_updated_on>
+    </sys_ui_message>
+</record_update>

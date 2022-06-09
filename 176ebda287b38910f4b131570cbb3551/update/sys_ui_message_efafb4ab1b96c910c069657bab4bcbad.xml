@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application/>
+        <code/>
+        <commented_message/>
+        <key>UI Policy Form Description</key>
+        <language>uk</language>
+        <message>Політики інтерфейсів користувача змінюють поля форми, виходячи з набору умов. Використовуйте політики інтерфейсів користувача для того, щоб відобразити або приховати поля, або налаштувати поля як обов'язкові або підлягають тільки читанню. Політика інтерфейсу користувача вказує одну або більше дій, які необхідно зробити під час запуску політики. Спочатку потрібно створити політику. Потім потрібно додати необхідні дії. Дії політики інтерфейсу користувача застосовуються тільки при дотриманні наступних умов:&lt;ul&gt;&lt;li&gt;Політика інтерфейсу є &lt;b&gt;активною&lt;/b&gt;&lt;/li&gt;&lt;li&gt;Елементам поля &lt;b&gt;Умови&lt;/b&gt; присвоєно значення "вірно" &lt;/li&gt;&lt;li&gt;Поле, зазначене у дії політики інтерфейсу, міститься у позначеній формі&lt;/li&gt;&lt;/ul&gt;&lt;a id="permalink" class="linked" style="color:#666666;" href="${gs.getProperty('help.base.servicenow')}CSHelp:Creating_a_UI_Policy" target="_blank"&gt;Докладніше&lt;/a&gt;</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>bogdan.felinskyi</sys_created_by>
+        <sys_created_on>2022-03-23 17:41:17</sys_created_on>
+        <sys_id>efafb4ab1b96c910c069657bab4bcbad</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>UI Policy Form Description</sys_name>
+        <sys_package display_value="I18N: Ukrainian Translations" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="I18N: Ukrainian Translations">176ebda287b38910f4b131570cbb3551</sys_scope>
+        <sys_update_name>sys_ui_message_efafb4ab1b96c910c069657bab4bcbad</sys_update_name>
+        <sys_updated_by>bogdan.felinskyi</sys_updated_by>
+        <sys_updated_on>2022-03-23 17:41:17</sys_updated_on>
+    </sys_ui_message>
+</record_update>

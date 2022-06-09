@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application/>
+        <code/>
+        <commented_message/>
+        <key>Ci with sys_id: {0} is in Retired status, no binding will be done to this ci</key>
+        <language>uk</language>
+        <message>Елемент конфігурації з sys_id: {0} знаходиться в стані "Списано", прив'язка до цього елемента конфігурації не буде виконана</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>bogdan.felinskyi</sys_created_by>
+        <sys_created_on>2022-03-23 17:37:09</sys_created_on>
+        <sys_id>7ebeb4271b96c910c069657bab4bcb7c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Ci with sys_id: {0} is in Retired status, no binding will be done to this ci</sys_name>
+        <sys_package display_value="I18N: Ukrainian Translations" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="I18N: Ukrainian Translations">176ebda287b38910f4b131570cbb3551</sys_scope>
+        <sys_update_name>sys_ui_message_7ebeb4271b96c910c069657bab4bcb7c</sys_update_name>
+        <sys_updated_by>bogdan.felinskyi</sys_updated_by>
+        <sys_updated_on>2022-03-23 17:37:09</sys_updated_on>
+    </sys_ui_message>
+</record_update>

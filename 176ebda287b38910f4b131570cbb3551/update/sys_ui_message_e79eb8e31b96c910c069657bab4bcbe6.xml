@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application/>
+        <code/>
+        <commented_message/>
+        <key>Any Additional Information field with a name the same as a field of the selected CI will be used as an identifier. Transform and Compose screen can be used to add such fields. All identifier fields must be matched to bind to the CI.</key>
+        <language>uk</language>
+        <message>Поле "Будь-яка додаткова інформація" з ім'ям, аналогічним імені поля обраного елемента конфігурації, буде використовуватися як ідентифікатор. Для додавання таких полів може використовуватися екран перетворення та складання. Усі поля ідентифікатора мають бути зіставлені для прив'язки елемента конфігурації.</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>bogdan.felinskyi</sys_created_by>
+        <sys_created_on>2022-03-23 17:36:40</sys_created_on>
+        <sys_id>e79eb8e31b96c910c069657bab4bcbe6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Any Additional Information field with a name the same as a field of the selected CI will be used as an identifier. Transform and Compose screen can be used to add such fields. All identifier fields must be matched to bind to the CI.</sys_name>
+        <sys_package display_value="I18N: Ukrainian Translations" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="I18N: Ukrainian Translations">176ebda287b38910f4b131570cbb3551</sys_scope>
+        <sys_update_name>sys_ui_message_e79eb8e31b96c910c069657bab4bcbe6</sys_update_name>
+        <sys_updated_by>bogdan.felinskyi</sys_updated_by>
+        <sys_updated_on>2022-03-23 17:36:40</sys_updated_on>
+    </sys_ui_message>
+</record_update>

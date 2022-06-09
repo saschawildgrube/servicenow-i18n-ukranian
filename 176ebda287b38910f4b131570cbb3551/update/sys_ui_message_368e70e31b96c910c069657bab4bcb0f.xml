@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application/>
+        <code/>
+        <commented_message/>
+        <key>. To the extent permitted by law, ServiceNow shall not be liable to you for incidental, consequential, punitive, special or exemplary damages (including damage to business, reputation or goodwill), or indirect damages of any type however caused, whether b</key>
+        <language>uk</language>
+        <message>У встановлених законодавством випадках компанія ServiceNow не несе відповідальності за випадкові, непрямі, що присуджуються у порядку покарання, фактичні або штрафні збитки (включаючи збитки комерційному підприємству або діловій репутації), а також непрямі збитки будь-якого типу, як через порушення, що випливають із користування даними ПЗ або пов'язаних з ним, так і на підставі договору, правопорушення (у тому числі через необережність) або будь-якого загального права та права справедливості. Сума відшкодування таких збитків має бути обмежена ста доларами США ($100). Наявність кількох претензій не може спричинити збільшення цього обмеження. Ви погоджуєтесь з тим, що ці обмеження будуть застосовуватися навіть у тому випадку, якщо часткове відшкодування збитків не досягає своєї основної мети, і що вищевикладені обмеження є справедливими, враховуючи, що це ПЗ надається безкоштовно.</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>bogdan.felinskyi</sys_created_by>
+        <sys_created_on>2022-03-23 17:36:20</sys_created_on>
+        <sys_id>368e70e31b96c910c069657bab4bcb0f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>. To the extent permitted by law, ServiceNow shall not be liable to you for incidental, consequential, punitive, special or exemplary damages (including damage to business, reputation or goodwill), or indirect damages of any type however caused, whether b</sys_name>
+        <sys_package display_value="I18N: Ukrainian Translations" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="I18N: Ukrainian Translations">176ebda287b38910f4b131570cbb3551</sys_scope>
+        <sys_update_name>sys_ui_message_368e70e31b96c910c069657bab4bcb0f</sys_update_name>
+        <sys_updated_by>bogdan.felinskyi</sys_updated_by>
+        <sys_updated_on>2022-03-23 17:36:20</sys_updated_on>
+    </sys_ui_message>
+</record_update>

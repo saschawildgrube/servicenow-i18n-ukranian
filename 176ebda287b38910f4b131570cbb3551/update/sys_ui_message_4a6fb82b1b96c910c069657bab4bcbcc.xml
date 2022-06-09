@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application/>
+        <code/>
+        <commented_message/>
+        <key>Scripted GraphQL Schema Annotation</key>
+        <language>uk</language>
+        <message>Визначення схеми, яке представляє модель даних, записане мовою визначення схеми (SDL) GraphQL. &lt;a href="https://graphql.org/learn/schema/"&gt;Додаткова інформація...&lt;/a&gt; &lt;p/&gt;&lt;p/&gt; Для всіх типів автоматично додається префікс з простором імен програми та схеми, для забезпечення унікальності всіх типів &lt;i&gt;напр.&lt;/i&gt;, з простором імен програми &lt;i&gt;now&lt;/i&gt; та простором імен схеми &lt;i&gt;person&lt;/i&gt;, тип Human перетворюється на &lt;i&gt;now_person_Human&lt;/i &gt;.</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>bogdan.felinskyi</sys_created_by>
+        <sys_created_on>2022-03-23 17:40:06</sys_created_on>
+        <sys_id>4a6fb82b1b96c910c069657bab4bcbcc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Scripted GraphQL Schema Annotation</sys_name>
+        <sys_package display_value="I18N: Ukrainian Translations" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="I18N: Ukrainian Translations">176ebda287b38910f4b131570cbb3551</sys_scope>
+        <sys_update_name>sys_ui_message_4a6fb82b1b96c910c069657bab4bcbcc</sys_update_name>
+        <sys_updated_by>bogdan.felinskyi</sys_updated_by>
+        <sys_updated_on>2022-03-23 17:40:06</sys_updated_on>
+    </sys_ui_message>
+</record_update>

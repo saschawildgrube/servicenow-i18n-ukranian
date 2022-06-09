@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application/>
+        <code/>
+        <commented_message/>
+        <key>Upgrade History Log Column Details</key>
+        <language>uk</language>
+        <message>Нижче наведено важливі відомості, які можна використовувати для відстеження стану кожного запису: &lt;ul&gt; &lt;li&gt; &lt;b&gt; Пріоритет &lt;/b&gt; заснований на елементах, що містяться в записі. Приклад: налаштування бізнес-правила має більший пріоритет, ніж сторінка інтерфейсу користувача, оскільки містить поля сценарію, XML і HTML. &lt;/li&gt; &lt;li&gt; Використовуйте поле &lt;b&gt; Стан рішення &lt;/b&gt;, щоб відслідковувати, чи був запис перевірено, збережено або повернено до основної системної версії. &lt;/li&gt; &lt;li&gt; Зберігайте нотатки для кожного запису в поле &lt;b&gt;коментарів&lt;/b&gt;. &lt;/li&gt; &lt;/ul&gt;</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>bogdan.felinskyi</sys_created_by>
+        <sys_created_on>2022-03-23 17:41:24</sys_created_on>
+        <sys_id>cdbf38ab1b96c910c069657bab4bcba3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Upgrade History Log Column Details</sys_name>
+        <sys_package display_value="I18N: Ukrainian Translations" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="I18N: Ukrainian Translations">176ebda287b38910f4b131570cbb3551</sys_scope>
+        <sys_update_name>sys_ui_message_cdbf38ab1b96c910c069657bab4bcba3</sys_update_name>
+        <sys_updated_by>bogdan.felinskyi</sys_updated_by>
+        <sys_updated_on>2022-03-23 17:41:24</sys_updated_on>
+    </sys_ui_message>
+</record_update>

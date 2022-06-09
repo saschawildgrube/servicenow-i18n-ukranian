@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application/>
+        <code/>
+        <commented_message/>
+        <key>Variable set {0} can not be deleted because it contains following {1} orchestration variable(s): &lt;BR&gt;{2} &lt;BR&gt;Please move the variable(s) to other variable sets first before deleting the current variable set.</key>
+        <language>uk</language>
+        <message>Не можна видалити набір змінних {0}, оскільки він містить наступні змінні оркестрації {1}: &lt;BR&gt;{2} &lt;BR&gt;Перемістіть змінні до інших наборів змінних, перш ніж видаляти поточний набір.</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>bogdan.felinskyi</sys_created_by>
+        <sys_created_on>2022-03-23 17:41:29</sys_created_on>
+        <sys_id>debfb8ab1b96c910c069657bab4bcb52</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Variable set {0} can not be deleted because it contains following {1} orchestration variable(s): &lt;BR&gt;{2} &lt;BR&gt;Please move the variable(s) to other variable sets first before deleting the current variable set.</sys_name>
+        <sys_package display_value="I18N: Ukrainian Translations" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="I18N: Ukrainian Translations">176ebda287b38910f4b131570cbb3551</sys_scope>
+        <sys_update_name>sys_ui_message_debfb8ab1b96c910c069657bab4bcb52</sys_update_name>
+        <sys_updated_by>bogdan.felinskyi</sys_updated_by>
+        <sys_updated_on>2022-03-23 17:41:29</sys_updated_on>
+    </sys_ui_message>
+</record_update>

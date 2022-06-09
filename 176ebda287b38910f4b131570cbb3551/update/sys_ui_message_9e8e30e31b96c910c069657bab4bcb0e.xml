@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application>Virtual Agent</application>
+        <code/>
+        <commented_message/>
+        <key>Please verify the date/time. To confirm, click OK. To change, click any field. You can also enter the
+   date/time in the format of MM/DD/YYYY.</key>
+        <language>uk</language>
+        <message>Перевірте дату та час. Щоб підтвердити дані, натисніть "OK". Щоб змінити їх, натисніть будь-яке поле. Можна також вказати дату та час у форматі ММ/ДД/РРРР.</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>bogdan.felinskyi</sys_created_by>
+        <sys_created_on>2022-03-23 17:36:17</sys_created_on>
+        <sys_id>9e8e30e31b96c910c069657bab4bcb0e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Please verify the date/time. To confirm, click OK. To change, click any field. You can also enter the
+   date/time in the format of MM/DD/YYYY.</sys_name>
+        <sys_package display_value="I18N: Ukrainian Translations" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="I18N: Ukrainian Translations">176ebda287b38910f4b131570cbb3551</sys_scope>
+        <sys_update_name>sys_ui_message_9e8e30e31b96c910c069657bab4bcb0e</sys_update_name>
+        <sys_updated_by>bogdan.felinskyi</sys_updated_by>
+        <sys_updated_on>2022-03-23 17:36:17</sys_updated_on>
+    </sys_ui_message>
+</record_update>

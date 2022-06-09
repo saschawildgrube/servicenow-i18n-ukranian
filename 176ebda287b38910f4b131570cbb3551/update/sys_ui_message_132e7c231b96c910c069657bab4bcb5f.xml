@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application/>
+        <code/>
+        <commented_message/>
+        <key>in safari, go to preferences and then privacy and uncheck the prevent cross-site tracking setting under website tracking.</key>
+        <language>uk</language>
+        <message>У Safari перейдіть до «Переваги», а «Конфіденційність» і вийдіть із системи відстеження перехресних сайтів у рамках відстеження веб-сайтів.</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>bogdan.felinskyi</sys_created_by>
+        <sys_created_on>2022-03-23 17:34:43</sys_created_on>
+        <sys_id>132e7c231b96c910c069657bab4bcb5f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>in safari, go to preferences and then privacy and uncheck the prevent cross-site tracking setting under website tracking.</sys_name>
+        <sys_package display_value="I18N: Ukrainian Translations" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="I18N: Ukrainian Translations">176ebda287b38910f4b131570cbb3551</sys_scope>
+        <sys_update_name>sys_ui_message_132e7c231b96c910c069657bab4bcb5f</sys_update_name>
+        <sys_updated_by>bogdan.felinskyi</sys_updated_by>
+        <sys_updated_on>2022-03-23 17:34:43</sys_updated_on>
+    </sys_ui_message>
+</record_update>

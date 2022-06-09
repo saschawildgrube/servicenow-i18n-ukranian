@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application/>
+        <code/>
+        <commented_message/>
+        <key>Modal display options allows users to add properties that are forwarded directly to the modal. An example would be setting properties such as { "size": "lg"} to control Modal size or if you were using a bare modal you could include "disableDismiss": true </key>
+        <language>uk</language>
+        <message>Параметри відображення модального вікна дозволяють додавати властивості, які перенаправляються безпосередньо в модальне вікно. Наприклад, для керування розміром модального кона можна встановити такі властивості, як { "size": "lg"}, а також при використанні порожнього модального вікна можна увімкнути "disableDismiss": true }, щоб видалити функціональність (X) з модального вікна.</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>bogdan.felinskyi</sys_created_by>
+        <sys_created_on>2022-03-23 17:41:58</sys_created_on>
+        <sys_id>21dff4eb1b96c910c069657bab4bcbd0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Modal display options allows users to add properties that are forwarded directly to the modal. An example would be setting properties such as { "size": "lg"} to control Modal size or if you were using a bare modal you could include "disableDismiss": true </sys_name>
+        <sys_package display_value="I18N: Ukrainian Translations" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="I18N: Ukrainian Translations">176ebda287b38910f4b131570cbb3551</sys_scope>
+        <sys_update_name>sys_ui_message_21dff4eb1b96c910c069657bab4bcbd0</sys_update_name>
+        <sys_updated_by>bogdan.felinskyi</sys_updated_by>
+        <sys_updated_on>2022-03-23 17:41:58</sys_updated_on>
+    </sys_ui_message>
+</record_update>

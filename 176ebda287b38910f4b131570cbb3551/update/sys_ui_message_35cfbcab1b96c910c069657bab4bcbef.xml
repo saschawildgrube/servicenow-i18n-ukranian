@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application/>
+        <code/>
+        <commented_message/>
+        <key>You have created an entitlement that is in 'Build' state. This entitlement will not be considered during reconciliation. To change the state of this entitlement to '{0}', please publish this form.</key>
+        <language>uk</language>
+        <message>Ви створили дозвіл, який знаходиться у стані «Складання». Цей дозвіл не враховуватиметься під час погодження. Щоб змінити стан цього дозволу на "{0}", опублікуйте цю форму.</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>bogdan.felinskyi</sys_created_by>
+        <sys_created_on>2022-03-23 17:41:44</sys_created_on>
+        <sys_id>35cfbcab1b96c910c069657bab4bcbef</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>You have created an entitlement that is in 'Build' state. This entitlement will not be considered during reconciliation. To change the state of this entitlement to '{0}', please publish this form.</sys_name>
+        <sys_package display_value="I18N: Ukrainian Translations" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="I18N: Ukrainian Translations">176ebda287b38910f4b131570cbb3551</sys_scope>
+        <sys_update_name>sys_ui_message_35cfbcab1b96c910c069657bab4bcbef</sys_update_name>
+        <sys_updated_by>bogdan.felinskyi</sys_updated_by>
+        <sys_updated_on>2022-03-23 17:41:44</sys_updated_on>
+    </sys_ui_message>
+</record_update>

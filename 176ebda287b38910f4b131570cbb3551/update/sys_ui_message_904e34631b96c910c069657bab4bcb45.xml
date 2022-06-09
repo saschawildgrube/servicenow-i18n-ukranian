@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application/>
+        <code/>
+        <commented_message/>
+        <key>the google access token is available, but no refresh token is available. the access token will expire on {0}. to fix this warning, update your google preferences and remove the app from the list of third party apps with access to your acccount. then test</key>
+        <language>uk</language>
+        <message>Маркер доступу Google доступний, але маркер оновлення недоступний. Термін дії маркера закінчиться {0}. Щоб видалити це попередження, оновіть свої особисті налаштування Google та видаліть програму зі списку сторонніх програм, доступних до вашого облікового запису. Потім перевірте підключення та знову виконайте вхід.</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>bogdan.felinskyi</sys_created_by>
+        <sys_created_on>2022-03-23 17:35:03</sys_created_on>
+        <sys_id>904e34631b96c910c069657bab4bcb45</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>the google access token is available, but no refresh token is available. the access token will expire on {0}. to fix this warning, update your google preferences and remove the app from the list of third party apps with access to your acccount. then test</sys_name>
+        <sys_package display_value="I18N: Ukrainian Translations" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="I18N: Ukrainian Translations">176ebda287b38910f4b131570cbb3551</sys_scope>
+        <sys_update_name>sys_ui_message_904e34631b96c910c069657bab4bcb45</sys_update_name>
+        <sys_updated_by>bogdan.felinskyi</sys_updated_by>
+        <sys_updated_on>2022-03-23 17:35:03</sys_updated_on>
+    </sys_ui_message>
+</record_update>

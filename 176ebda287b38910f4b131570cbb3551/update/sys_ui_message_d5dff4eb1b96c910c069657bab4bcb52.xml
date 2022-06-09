@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application/>
+        <code/>
+        <commented_message/>
+        <key>Setting disable-sandbox="true" will lift the following restrictions: "allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts allow-downloads" . The default, disable-sandbox="false" will only lift the following restriction</key>
+        <language>uk</language>
+        <message>При установці для параметра «Вимкнути ізольоване середовище» значення «Істина» будуть скасовані наступні обмеження: «Дозволити форми», «Дозволити модальні вікна», «Дозволити спливаючі вікна», «Дозволити презентацію», «Дозволити те саме походження», « Дозволити сценарії», «Дозволити завантаження». За замовчуванням для параметра "Вимкнути ізольоване середовище" значення "Брехня" буде скасовано наступне обмеження: "Дозволити сценарії".</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>bogdan.felinskyi</sys_created_by>
+        <sys_created_on>2022-03-23 17:41:57</sys_created_on>
+        <sys_id>d5dff4eb1b96c910c069657bab4bcb52</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Setting disable-sandbox="true" will lift the following restrictions: "allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts allow-downloads" . The default, disable-sandbox="false" will only lift the following restriction</sys_name>
+        <sys_package display_value="I18N: Ukrainian Translations" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="I18N: Ukrainian Translations">176ebda287b38910f4b131570cbb3551</sys_scope>
+        <sys_update_name>sys_ui_message_d5dff4eb1b96c910c069657bab4bcb52</sys_update_name>
+        <sys_updated_by>bogdan.felinskyi</sys_updated_by>
+        <sys_updated_on>2022-03-23 17:41:57</sys_updated_on>
+    </sys_ui_message>
+</record_update>

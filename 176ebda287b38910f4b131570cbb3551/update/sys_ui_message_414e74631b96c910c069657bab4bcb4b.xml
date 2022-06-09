@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application/>
+        <code/>
+        <commented_message/>
+        <key>field '{0}' (in the alert key field) isn't a valid field on the alert table. note that you must use the field name, not its label. if you want to refer to a field from the additional info field, please enable the flag 'is additional info field'.</key>
+        <language>uk</language>
+        <message>Поле "{0}" (у полі "Ключ оповіщення") не є допустимим полем у таблиці оповіщень. Слід пам'ятати, що потрібно використовувати ім'я поля, а чи не його мітку. Якщо ви бажаєте посилатися на поле з додаткового інформаційного поля, встановіть прапорець «Додаткове інформаційне поле».</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>bogdan.felinskyi</sys_created_by>
+        <sys_created_on>2022-03-23 17:35:07</sys_created_on>
+        <sys_id>414e74631b96c910c069657bab4bcb4b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>field '{0}' (in the alert key field) isn't a valid field on the alert table. note that you must use the field name, not its label. if you want to refer to a field from the additional info field, please enable the flag 'is additional info field'.</sys_name>
+        <sys_package display_value="I18N: Ukrainian Translations" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="I18N: Ukrainian Translations">176ebda287b38910f4b131570cbb3551</sys_scope>
+        <sys_update_name>sys_ui_message_414e74631b96c910c069657bab4bcb4b</sys_update_name>
+        <sys_updated_by>bogdan.felinskyi</sys_updated_by>
+        <sys_updated_on>2022-03-23 17:35:07</sys_updated_on>
+    </sys_ui_message>
+</record_update>

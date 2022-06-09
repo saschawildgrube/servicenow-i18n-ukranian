@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application/>
+        <code/>
+        <commented_message/>
+        <key>MFA Context Form Banner Message</key>
+        <language>uk</language>
+        <message>Контекст MFA визначає, як застосовувати/послаблювати MFA під час входу в систему після автентифікації користувача, і результат політики визначається вибором параметра конфігурації політики за умовчанням, а саме: &lt;ul&gt; &lt;li&gt;при виборі розширеної політики MFA як політика за умовчанням MFA буде примусово застосовуватися для користувачів, якщо для умов політики, визначених у розширеній політиці MFA, встановлено значення «істина»; якщо для умов політики, визначених в обмеженій політиці MFA, встановлено значення «істина».&lt;/li&gt; &lt;/ul&gt; ПРИМІТКА. Перейдіть до запису "Політика автентифікації", щоб додати/змінити "Вхідні дані політики" до посилання "Політика" ("Розширена політика MFA" або "обмежена політика MFA"). &lt;a target="_blank" href="/api/now/v1/context_doc_url/CSHelp-mfa-context"&gt;Додаткові відомості&lt;/a&gt;</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>bogdan.felinskyi</sys_created_by>
+        <sys_created_on>2022-03-23 17:38:59</sys_created_on>
+        <sys_id>612f34e71b96c910c069657bab4bcbe7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>MFA Context Form Banner Message</sys_name>
+        <sys_package display_value="I18N: Ukrainian Translations" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="I18N: Ukrainian Translations">176ebda287b38910f4b131570cbb3551</sys_scope>
+        <sys_update_name>sys_ui_message_612f34e71b96c910c069657bab4bcbe7</sys_update_name>
+        <sys_updated_by>bogdan.felinskyi</sys_updated_by>
+        <sys_updated_on>2022-03-23 17:38:59</sys_updated_on>
+    </sys_ui_message>
+</record_update>

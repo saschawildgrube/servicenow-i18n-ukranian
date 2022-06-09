@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application/>
+        <code/>
+        <commented_message/>
+        <key>User allocations could not be created because the user does not exist in your ServiceNow instance. To create the allocation, create a new user and then run reconciliation again. The allocation will be created the next time the daily subscription job is ru</key>
+        <language>uk</language>
+        <message>Не вдалося створити розподіл користувача, оскільки цей користувач не існує у вашому екземплярі ServiceNow. Щоб створити розподіл, створіть нового користувача, а потім знову запустіть узгодження. Розподіл буде створено під час наступного запуску щоденного завдання підписки.</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>bogdan.felinskyi</sys_created_by>
+        <sys_created_on>2022-03-23 17:41:26</sys_created_on>
+        <sys_id>a5bf78ab1b96c910c069657bab4bcb65</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>User allocations could not be created because the user does not exist in your ServiceNow instance. To create the allocation, create a new user and then run reconciliation again. The allocation will be created the next time the daily subscription job is ru</sys_name>
+        <sys_package display_value="I18N: Ukrainian Translations" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="I18N: Ukrainian Translations">176ebda287b38910f4b131570cbb3551</sys_scope>
+        <sys_update_name>sys_ui_message_a5bf78ab1b96c910c069657bab4bcb65</sys_update_name>
+        <sys_updated_by>bogdan.felinskyi</sys_updated_by>
+        <sys_updated_on>2022-03-23 17:41:26</sys_updated_on>
+    </sys_ui_message>
+</record_update>

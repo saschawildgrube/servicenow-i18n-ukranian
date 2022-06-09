@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application/>
+        <code/>
+        <commented_message/>
+        <key>Assigning router locations helps to automatically create Discovery schedules for each location. Each location schedule can discover IP addresses associated with routers for that location. IPs associated with unassigned routers are not used in any schedule</key>
+        <language>uk</language>
+        <message>Присвоєння місць маршрутизатору допомагає автоматично створити розклад Discovery для кожного місця. За допомогою розкладу кожного місця можна знайти IP-адреси, пов'язані з маршрутизаторами для цього місця. IP-адреси, пов'язані з непризначеними маршрутизаторами, не використовуються в жодному розкладі. Якщо цей етап пропускається, ви можете створити розклад Discovery, який буде включати всі IP-адреси.</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>bogdan.felinskyi</sys_created_by>
+        <sys_created_on>2022-03-23 17:36:47</sys_created_on>
+        <sys_id>11aefce31b96c910c069657bab4bcb4d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Assigning router locations helps to automatically create Discovery schedules for each location. Each location schedule can discover IP addresses associated with routers for that location. IPs associated with unassigned routers are not used in any schedule</sys_name>
+        <sys_package display_value="I18N: Ukrainian Translations" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="I18N: Ukrainian Translations">176ebda287b38910f4b131570cbb3551</sys_scope>
+        <sys_update_name>sys_ui_message_11aefce31b96c910c069657bab4bcb4d</sys_update_name>
+        <sys_updated_by>bogdan.felinskyi</sys_updated_by>
+        <sys_updated_on>2022-03-23 17:36:47</sys_updated_on>
+    </sys_ui_message>
+</record_update>
