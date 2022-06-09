@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application/>
+        <code/>
+        <commented_message/>
+        <key>This data is automatically refreshed so customers always have access to the last six months of Benchmark data. ServiceNow protects the benchmark usage data using the same policies, procedures, tools and techniques used to protect your instance(s).</key>
+        <language>uk</language>
+        <message>Ці дані автоматично оновлюються, тому клієнти завжди мають доступ до даних порівняльного тесту за останні шість місяців. ServiceNow захищає дані використання порівняльного тесту за допомогою тієї ж політики, процедур, інструментів та методів, що й для захисту ваших екземплярів.</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>bogdan.felinskyi</sys_created_by>
+        <sys_created_on>2022-03-23 17:41:03</sys_created_on>
+        <sys_id>c4afb0ab1b96c910c069657bab4bcb50</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>This data is automatically refreshed so customers always have access to the last six months of Benchmark data. ServiceNow protects the benchmark usage data using the same policies, procedures, tools and techniques used to protect your instance(s).</sys_name>
+        <sys_package display_value="I18N: Ukrainian Translations" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="I18N: Ukrainian Translations">176ebda287b38910f4b131570cbb3551</sys_scope>
+        <sys_update_name>sys_ui_message_c4afb0ab1b96c910c069657bab4bcb50</sys_update_name>
+        <sys_updated_by>bogdan.felinskyi</sys_updated_by>
+        <sys_updated_on>2022-03-23 17:41:03</sys_updated_on>
+    </sys_ui_message>
+</record_update>

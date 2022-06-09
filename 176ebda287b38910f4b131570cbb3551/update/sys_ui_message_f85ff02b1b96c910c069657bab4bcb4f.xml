@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application/>
+        <code/>
+        <commented_message/>
+        <key>Push Notification Form Description</key>
+        <language>uk</language>
+        <message>Використовуйте push-повідомлення для надсилання на мобільні пристрої вибраних користувачів push-повідомлень про певні операції в ServiceNow, наприклад оновлення інцидентів або зміну запитів. Push-повідомлення дозволяють адміністраторам вказувати:&lt;br /&gt; &lt;br /&gt; &lt;ul style="padding-top:0px;padding-bottom:0px;margin-top:0px;margin-bottom:0px;"&gt;&lt;li&gt;коли слід надсилати повідомлення;&lt;/li&gt;&lt;li&gt;хто має отримати повідомлення.&lt;/li&gt;&lt;li&gt;Повідомлення з push-повідомленнями включають весь вміст повідомлення, надісланого постачальнику push-повідомлень&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt; Користувачі можуть вибрати, чи бажають вони отримувати push-повідомлення, задавши відповідну перевагу у своєму записі користувача. &lt;br /&gt;&lt;br /&gt; &lt;a href="http://docs.servicenow.com/?context=CSHelp:Notifications-Notification-Push-View" target="_blank" class="linked"&gt;Докладніше&lt;/ a&gt;</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>bogdan.felinskyi</sys_created_by>
+        <sys_created_on>2022-03-23 17:39:45</sys_created_on>
+        <sys_id>f85ff02b1b96c910c069657bab4bcb4f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Push Notification Form Description</sys_name>
+        <sys_package display_value="I18N: Ukrainian Translations" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="I18N: Ukrainian Translations">176ebda287b38910f4b131570cbb3551</sys_scope>
+        <sys_update_name>sys_ui_message_f85ff02b1b96c910c069657bab4bcb4f</sys_update_name>
+        <sys_updated_by>bogdan.felinskyi</sys_updated_by>
+        <sys_updated_on>2022-03-23 17:39:45</sys_updated_on>
+    </sys_ui_message>
+</record_update>

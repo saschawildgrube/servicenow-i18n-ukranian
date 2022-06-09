@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application>Instance Data Replication</application>
+        <code/>
+        <commented_message/>
+        <key>Replication Shared Key Instructions</key>
+        <language>uk</language>
+        <message>У випуску Madrid потрібно значення загального ключа при надсиланні нового набору користувачів. Примірники у випусках після Madrid не мають значення загального ключа, включеного в процес налаштування. Якщо у вас є успадкований набір користувачів, який потрібно підключити до відповідного набору постачальників, це правильно відформатоване значення, яке потрібно скопіювати. Переконайтеся, що це поточний загальний ключ (ні дати закінчення терміну дії) для постачальника, встановлений перед копіюванням.</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>bogdan.felinskyi</sys_created_by>
+        <sys_created_on>2022-03-23 17:39:54</sys_created_on>
+        <sys_id>1b5fb42b1b96c910c069657bab4bcbb6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Replication Shared Key Instructions</sys_name>
+        <sys_package display_value="I18N: Ukrainian Translations" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="I18N: Ukrainian Translations">176ebda287b38910f4b131570cbb3551</sys_scope>
+        <sys_update_name>sys_ui_message_1b5fb42b1b96c910c069657bab4bcbb6</sys_update_name>
+        <sys_updated_by>bogdan.felinskyi</sys_updated_by>
+        <sys_updated_on>2022-03-23 17:39:54</sys_updated_on>
+    </sys_ui_message>
+</record_update>

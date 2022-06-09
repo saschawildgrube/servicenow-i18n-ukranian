@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application/>
+        <code/>
+        <commented_message/>
+        <key>A model created to classify and reduce duplication of software Installs when new Installs are identified. Software Discovery Models with a status of Match not found, Publisher Normalized, Partially Normalized, or Manually Normalized will be transferred. I</key>
+        <language>uk</language>
+        <message>Модель, призначена для класифікації та скорочення дублювання установок програмного забезпечення при виявленні нових установок. Моделі виявлення програмного забезпечення зі станом «Збігів не знайдено», «Нормалізовано видавцем», «Частково нормалізовано» або «Нормалізовано вручну» будуть перенесені. Крім того, будуть перенесені моделі виявлення програмного забезпечення в стані нормалізації з передбаченими ML значеннями.</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>bogdan.felinskyi</sys_created_by>
+        <sys_created_on>2022-03-23 17:36:24</sys_created_on>
+        <sys_id>fb8eb0e31b96c910c069657bab4bcb10</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>A model created to classify and reduce duplication of software Installs when new Installs are identified. Software Discovery Models with a status of Match not found, Publisher Normalized, Partially Normalized, or Manually Normalized will be transferred. I</sys_name>
+        <sys_package display_value="I18N: Ukrainian Translations" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="I18N: Ukrainian Translations">176ebda287b38910f4b131570cbb3551</sys_scope>
+        <sys_update_name>sys_ui_message_fb8eb0e31b96c910c069657bab4bcb10</sys_update_name>
+        <sys_updated_by>bogdan.felinskyi</sys_updated_by>
+        <sys_updated_on>2022-03-23 17:36:24</sys_updated_on>
+    </sys_ui_message>
+</record_update>

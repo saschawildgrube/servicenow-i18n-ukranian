@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application/>
+        <code/>
+        <commented_message/>
+        <key>Thank you for submitting the PO. Your app purchase is pending PO review. Once complete, you will be notified in an email how to obtain your app.</key>
+        <language>uk</language>
+        <message>Дякую, що представили замовлення на придбання. Купівля програми знаходиться на етапі розгляду замовлення на придбання. Після завершення ви отримаєте повідомлення електронної пошти про те, як отримати програму.</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>bogdan.felinskyi</sys_created_by>
+        <sys_created_on>2022-03-23 17:40:45</sys_created_on>
+        <sys_id>eb8f3c6b1b96c910c069657bab4bcb5b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Thank you for submitting the PO. Your app purchase is pending PO review. Once complete, you will be notified in an email how to obtain your app.</sys_name>
+        <sys_package display_value="I18N: Ukrainian Translations" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="I18N: Ukrainian Translations">176ebda287b38910f4b131570cbb3551</sys_scope>
+        <sys_update_name>sys_ui_message_eb8f3c6b1b96c910c069657bab4bcb5b</sys_update_name>
+        <sys_updated_by>bogdan.felinskyi</sys_updated_by>
+        <sys_updated_on>2022-03-23 17:40:45</sys_updated_on>
+    </sys_ui_message>
+</record_update>

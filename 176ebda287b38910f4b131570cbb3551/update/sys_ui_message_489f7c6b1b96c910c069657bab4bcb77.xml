@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application/>
+        <code/>
+        <commented_message/>
+        <key>The custom field '{0}' contains an invalid currency value. Currency values are expected to be formatted with the currency code followed by a semicolon  and the value. For example, USD;123.45</key>
+        <language>uk</language>
+        <message>Користувальницьке поле «{0}» містить неприпустиме значення валюти. Передбачається, що значення валюти відформатовані таким чином, що за кодом валюти слідує крапка з комою, потім значення, наприклад USD;123,45</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>bogdan.felinskyi</sys_created_by>
+        <sys_created_on>2022-03-23 17:40:47</sys_created_on>
+        <sys_id>489f7c6b1b96c910c069657bab4bcb77</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>The custom field '{0}' contains an invalid currency value. Currency values are expected to be formatted with the currency code followed by a semicolon  and the value. For example, USD;123.45</sys_name>
+        <sys_package display_value="I18N: Ukrainian Translations" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="I18N: Ukrainian Translations">176ebda287b38910f4b131570cbb3551</sys_scope>
+        <sys_update_name>sys_ui_message_489f7c6b1b96c910c069657bab4bcb77</sys_update_name>
+        <sys_updated_by>bogdan.felinskyi</sys_updated_by>
+        <sys_updated_on>2022-03-23 17:40:47</sys_updated_on>
+    </sys_ui_message>
+</record_update>

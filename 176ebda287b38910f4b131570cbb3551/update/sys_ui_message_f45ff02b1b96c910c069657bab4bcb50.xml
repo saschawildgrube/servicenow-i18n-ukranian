@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application/>
+        <code/>
+        <commented_message/>
+        <key>Push Notification Message Content Description</key>
+        <language>uk</language>
+        <message>Вміст повідомлень з push-повідомленнями вказує додатковий вміст у форматі JSON у корисних даних push-повідомлення, яке надсилається постачальнику push-повідомлень. Використовуйте цей запис для створення вмісту у форматі JSON та вказівки специфічних для постачальника значень, наприклад, звуку або бейджа.&lt;br /&gt;&lt;br /&gt; У сценарії можна використовувати наведені нижче змінні. &lt;ul&gt;&lt;li&gt;&lt;b&gt;current:&lt;/b&gt; властивості доступу запису, що викликало це push-повідомлення, наприклад поля в записі інциденту.&lt;/li&gt;&lt;li&gt;&lt;b&gt;message:&lt;/b&gt; доступний вміст повідомлення, яке буде надіслано як основний текст push-повідомлення.&lt;/li&gt;&lt;li&gt;&lt;b&gt;attributes:&lt;/b&gt; атрибути доступу, визначені для цього push-сповіщення.&lt;/li&gt;&lt;/ul&gt; &lt;br / &gt; &lt;a href="http://docs.servicenow.com/?context=CSHelp:Notifications-Push-Notification-Message-Content" target="_blank" class="linked"&gt;Докладніше&lt;/a&gt;</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>bogdan.felinskyi</sys_created_by>
+        <sys_created_on>2022-03-23 17:39:45</sys_created_on>
+        <sys_id>f45ff02b1b96c910c069657bab4bcb50</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Push Notification Message Content Description</sys_name>
+        <sys_package display_value="I18N: Ukrainian Translations" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="I18N: Ukrainian Translations">176ebda287b38910f4b131570cbb3551</sys_scope>
+        <sys_update_name>sys_ui_message_f45ff02b1b96c910c069657bab4bcb50</sys_update_name>
+        <sys_updated_by>bogdan.felinskyi</sys_updated_by>
+        <sys_updated_on>2022-03-23 17:39:45</sys_updated_on>
+    </sys_ui_message>
+</record_update>

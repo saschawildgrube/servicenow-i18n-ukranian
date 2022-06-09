@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application/>
+        <code/>
+        <commented_message/>
+        <key>fetch the latest fired alerts from splunk to aid in creation and verification of mapping rules. available alert fields and their corresponding values will be displayed. these alert fields can be dragged to the mapping grid to the right in order to associa</key>
+        <language>uk</language>
+        <message>Отримайте останні сповіщення від Splunk для підтримки створення та перевірки правил зіставлення. Відобразяться доступні поля сповіщень та відповідні значення. Ці поля сповіщень можна перетягнути в сітку зіставлення праворуч, щоб зв'язати поле вхідного сповіщення з полем вихідного інциденту безпеки. Поле вхідного оповіщення можна пов'язати з кількома інцидентами безпеки. \n Якщо налаштовано декілька сповіщень, окремі зразки сповіщень можна переглянути за допомогою поля вибору "Ім'я сповіщення", яке відображатиме лише події для одного відображуваного імені сповіщення.</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>bogdan.felinskyi</sys_created_by>
+        <sys_created_on>2022-03-23 17:35:43</sys_created_on>
+        <sys_id>796eb0a31b96c910c069657bab4bcb6f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>fetch the latest fired alerts from splunk to aid in creation and verification of mapping rules. available alert fields and their corresponding values will be displayed. these alert fields can be dragged to the mapping grid to the right in order to associa</sys_name>
+        <sys_package display_value="I18N: Ukrainian Translations" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="I18N: Ukrainian Translations">176ebda287b38910f4b131570cbb3551</sys_scope>
+        <sys_update_name>sys_ui_message_796eb0a31b96c910c069657bab4bcb6f</sys_update_name>
+        <sys_updated_by>bogdan.felinskyi</sys_updated_by>
+        <sys_updated_on>2022-03-23 17:35:43</sys_updated_on>
+    </sys_ui_message>
+</record_update>

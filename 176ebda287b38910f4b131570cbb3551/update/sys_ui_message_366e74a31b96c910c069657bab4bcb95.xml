@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application/>
+        <code/>
+        <commented_message/>
+        <key>if you enable this feature, vis will be created for \'fixed\' detections that do not already exist in your instance, which may negatively impact your ingestion performance. you may prefer to leave this feature disabled so that \'fixed\' detections will on</key>
+        <language>uk</language>
+        <message>Якщо вимкнути цю функцію, вразливі елементи будуть створені для виявлення «Виправлено», які ще не існують в екземплярі, що може негативно позначитися на продуктивності прийому. Можливо, ви хочете залишити цю функцію вимкненою, щоб при виявленні «Виправлено» оновлювалися лише стани існуючих вразливих елементів.</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>bogdan.felinskyi</sys_created_by>
+        <sys_created_on>2022-03-23 17:35:47</sys_created_on>
+        <sys_id>366e74a31b96c910c069657bab4bcb95</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>if you enable this feature, vis will be created for \'fixed\' detections that do not already exist in your instance, which may negatively impact your ingestion performance. you may prefer to leave this feature disabled so that \'fixed\' detections will on</sys_name>
+        <sys_package display_value="I18N: Ukrainian Translations" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="I18N: Ukrainian Translations">176ebda287b38910f4b131570cbb3551</sys_scope>
+        <sys_update_name>sys_ui_message_366e74a31b96c910c069657bab4bcb95</sys_update_name>
+        <sys_updated_by>bogdan.felinskyi</sys_updated_by>
+        <sys_updated_on>2022-03-23 17:35:47</sys_updated_on>
+    </sys_ui_message>
+</record_update>

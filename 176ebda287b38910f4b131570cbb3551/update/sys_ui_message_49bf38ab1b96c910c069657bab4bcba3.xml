@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application/>
+        <code/>
+        <commented_message/>
+        <key>Upgrade History Disposition Detail</key>
+        <language>uk</language>
+        <message>Поле стану реєструє дії, застосовані до кожного запису під час оновлення. У розділі "Підрахунок записів за станом" перелічено кількість записів з кожним станом. &lt;ul&gt; &lt;li&gt; Пропущено — щоб поведінка компонента, налаштованого клієнтом, не змінилася, компонент оновлення не був застосований. &lt;/li&gt; &lt;li&gt; Пропущено та відрізняється — базовий компонент змінився з часу останнього випуску, однак, щоб поведінка компонента, налаштованого клієнтом, не змінилася, компонент оновлення не був застосований. &lt;/li&gt; &lt;li&gt; Пропущено і не відрізняється - базовий компонент не змінився з часу останнього випуску, і компонент оновлення не було застосовано. &lt;/li&gt; &lt;li&gt; Без змін - базовий компонент не змінився з часу останнього випуску. &lt;/li&gt; &lt;li&gt; Вставлено, оновлено та видалено — записи, які були вставлені, оновлені або видалені &lt;/li&gt; &lt;li&gt; Оновлено та відрізняється — базовий компонент змінився з часу останнього випуску та був оновлений &lt;/li&gt; &lt;li&gt; Оновлено та не відрізняється — базовий компонент не змінився з часу останнього випуску і був підтверджений &lt;/li&gt; &lt;li&gt; Пропущено через помилку — компонент оновлення не застосований через помилку.&lt;/li&gt; &lt;li&gt; Пропущено злиття вручну — компонент оновлення не був застосований, оскільки автоматичне застосування змін небезпечне.&lt;/li&gt; &lt;li&gt; Пропущено одноразово — компонент оновлення не був застосований, оскільки він налаштований для одноразового застосування і вже застосовувався раніше.&lt;/li&gt; &lt;/ul&gt;</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>bogdan.felinskyi</sys_created_by>
+        <sys_created_on>2022-03-23 17:41:24</sys_created_on>
+        <sys_id>49bf38ab1b96c910c069657bab4bcba3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Upgrade History Disposition Detail</sys_name>
+        <sys_package display_value="I18N: Ukrainian Translations" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="I18N: Ukrainian Translations">176ebda287b38910f4b131570cbb3551</sys_scope>
+        <sys_update_name>sys_ui_message_49bf38ab1b96c910c069657bab4bcba3</sys_update_name>
+        <sys_updated_by>bogdan.felinskyi</sys_updated_by>
+        <sys_updated_on>2022-03-23 17:41:24</sys_updated_on>
+    </sys_ui_message>
+</record_update>

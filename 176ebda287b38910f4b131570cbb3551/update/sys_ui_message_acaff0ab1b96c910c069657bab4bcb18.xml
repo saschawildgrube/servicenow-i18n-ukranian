@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application/>
+        <code/>
+        <commented_message/>
+        <key>This reference list was opened with the "{0}" button to update the {1} reference field for one or more records. Choose a record from the table to use as the value for the reference field you wish to update.</key>
+        <language>uk</language>
+        <message>Цей список посилань був відкритий за допомогою кнопки «{0}» для оновлення поля {1} посилання для одного або кількох записів. Виберіть запис з таблиці, щоб використовувати його як значення для поля посилання, яке потрібно оновити.</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>bogdan.felinskyi</sys_created_by>
+        <sys_created_on>2022-03-23 17:41:06</sys_created_on>
+        <sys_id>acaff0ab1b96c910c069657bab4bcb18</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>This reference list was opened with the "{0}" button to update the {1} reference field for one or more records. Choose a record from the table to use as the value for the reference field you wish to update.</sys_name>
+        <sys_package display_value="I18N: Ukrainian Translations" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="I18N: Ukrainian Translations">176ebda287b38910f4b131570cbb3551</sys_scope>
+        <sys_update_name>sys_ui_message_acaff0ab1b96c910c069657bab4bcb18</sys_update_name>
+        <sys_updated_by>bogdan.felinskyi</sys_updated_by>
+        <sys_updated_on>2022-03-23 17:41:06</sys_updated_on>
+    </sys_ui_message>
+</record_update>

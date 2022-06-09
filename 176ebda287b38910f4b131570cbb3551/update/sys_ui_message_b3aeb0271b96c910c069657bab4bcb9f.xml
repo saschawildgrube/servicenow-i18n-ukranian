@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application/>
+        <code/>
+        <commented_message/>
+        <key>BY DOWNLOADING, INSTALLING, OR USING THE SAP ABAP PROGRAM FOR SERVICENOW SOFTWARE ASSET MANAGEMENT SOFTWARE ("SOFTWARE"), YOU (THE INDIVIDUAL OR LEGAL ENTITY, HEREIN REFERED TO AS "YOU" OR "YOUR" OR "USER") AGREE TO BE BOUND BY THE TERMS AND CONDITIONS OF</key>
+        <language>uk</language>
+        <message>ЗАГРУЖАЯ, УСТАНАВЛИВАЯ ИЛИ ИСПОЛЬЗУЯ ПРОГРАММУ SAP ABAP ДЛЯ ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ SERVICENOW SOFTWARE ASSET MANAGEMENT («ПРОГРАММНОЕ ОБЕСПЕЧЕНИЕ»), ВЫ (ФИЗИЧЕСКОЕ ИЛИ ЮРИДИЧЕСКОЕ ЛИЦО, В НАСТОЯЩЕМ ДОКУМЕНТЕ ИМЕНУЕМОЕ КАК «ВЫ», ИЛИ «ВАШ», ИЛИ «ПОЛЬЗОВАТЕЛЬ») СОГЛАСНЫ СЛЕДОВАТЬ УМОВИ І ПОЛОЖЕННЯ ЦЕЙ ЛІЦЕНЗІЙНОЇ УГОДИ З КІНЦЕВИМ КОРИСТУВАЧЕМ («ЛІЦЕНЗІЙНА УГОДА»). Якщо ви не згодні з умовами цієї Ліцензійної угоди, ви не можете завантажувати, встановлювати, копіювати, пересилати, відображати або використовувати це програмне забезпечення, і ви повинні негайно видалити невикористане програмне забезпечення зі своїх систем і записів. «ДАТОЙ ВСТУП У СИЛУ» СПРАВЖНЬОЇ ЛІЦЕНЗІЙНОЇ УГОДИ ПОВИННА БУТИ ДАТА ПОЧАТКУ ВИКОРИСТАННЯ ДАНОГО ПРОГРАМНОГО ЗАБЕЗПЕЧЕННЯ. ВОНА ВСТАНОВЛЮЄТЬСЯ ЗА ВЗАЄМНОЮ УГОДИ МІЖ ВАМИ, КОМПАНІЄЮ SERVICENOW, INC. І ЇЇ ДОЧЕРНІМИ ПІДПРИЄМСТВАМИ («SERVICENOW»). ДАТА ПРИПИНЕННЯ ДІЇ СПРАВЖНЬОЇ ЛІЦЕНЗІЙНОЇ УГОДИ — ЦЕ ДАТА ВИДАЛЕННЯ ДАНОГО ПРОГРАМНОГО ЗАБЕЗПЕЧЕННЯ З ВСІХ ВАШИХ СИСТЕМ АБО ЗАПИСІВ, У ТОМ ЧИСЛІ.</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>bogdan.felinskyi</sys_created_by>
+        <sys_created_on>2022-03-23 17:36:56</sys_created_on>
+        <sys_id>b3aeb0271b96c910c069657bab4bcb9f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>BY DOWNLOADING, INSTALLING, OR USING THE SAP ABAP PROGRAM FOR SERVICENOW SOFTWARE ASSET MANAGEMENT SOFTWARE ("SOFTWARE"), YOU (THE INDIVIDUAL OR LEGAL ENTITY, HEREIN REFERED TO AS "YOU" OR "YOUR" OR "USER") AGREE TO BE BOUND BY THE TERMS AND CONDITIONS OF</sys_name>
+        <sys_package display_value="I18N: Ukrainian Translations" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="I18N: Ukrainian Translations">176ebda287b38910f4b131570cbb3551</sys_scope>
+        <sys_update_name>sys_ui_message_b3aeb0271b96c910c069657bab4bcb9f</sys_update_name>
+        <sys_updated_by>bogdan.felinskyi</sys_updated_by>
+        <sys_updated_on>2022-03-23 17:36:56</sys_updated_on>
+    </sys_ui_message>
+</record_update>

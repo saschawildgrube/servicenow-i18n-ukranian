@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application/>
+        <code/>
+        <commented_message/>
+        <key>Scripted REST Operation Security Description</key>
+        <language>uk</language>
+        <message>Ресурси можуть вказувати параметри безпеки, які перевизначають батьківські параметри. &lt;p/&gt;&lt;p/&gt; За замовчуванням ресурси вимагають автентифікації та автентифікації за списком контролю доступу. Щоб зробити ресурс відкритим, тобто таким, що не вимагає автентифікації для доступу, зніміть прапорець «Потрібна автентифікація». Щоб дізнатися більше про налаштування Scripted REST API, див. наші &lt;a id="permalink" class="linked" style="color:#666666;" href="${gs.getProperty('help.base.servicenow')}CSHelp:Scripted_REST_APIs" target="_blank"&gt;документи з продукту&lt;/a&gt;. &lt;p/&gt;&lt;p/&gt; Щоб вимагати автентифікації, встановіть прапорець «Потрібна автентифікація за списком контролю доступу» та виберіть один або кілька записів списку контролю доступу. Залишіть поле "Список контролю доступу" порожнім, щоб примусово застосувати "Списки контролю доступу за замовчуванням" з батьківського API. Доступ надається при знаходженні хоча б одного запису списку контролю доступу. &lt;p/&gt;&lt;p/&gt; &lt;a id="permalink" class="linked" style="color:#666666;" href="${gs.getProperty('help.base.servicenow')}CSHelp:Scripted_REST_Configuring_Security" target="_blank"&gt;Докладніше&lt;/a&gt;</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>bogdan.felinskyi</sys_created_by>
+        <sys_created_on>2022-03-23 17:40:06</sys_created_on>
+        <sys_id>4a6fb82b1b96c910c069657bab4bcbcf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Scripted REST Operation Security Description</sys_name>
+        <sys_package display_value="I18N: Ukrainian Translations" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="I18N: Ukrainian Translations">176ebda287b38910f4b131570cbb3551</sys_scope>
+        <sys_update_name>sys_ui_message_4a6fb82b1b96c910c069657bab4bcbcf</sys_update_name>
+        <sys_updated_by>bogdan.felinskyi</sys_updated_by>
+        <sys_updated_on>2022-03-23 17:40:06</sys_updated_on>
+    </sys_ui_message>
+</record_update>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application>reporting</application>
+        <code/>
+        <commented_message/>
+        <key>Specify a JSON key to connect the map source data to maps. Your data must match this key's values. Geographical maps typically use hc-key.</key>
+        <language>uk</language>
+        <message>Вкажіть ключ JSON, щоб підключити джерело даних картки до карток. Дані повинні відповідати значенням ключа. У географічних картах зазвичай використовують hc-key.</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>bogdan.felinskyi</sys_created_by>
+        <sys_created_on>2022-03-23 17:40:30</sys_created_on>
+        <sys_id>377ff46b1b96c910c069657bab4bcb63</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Specify a JSON key to connect the map source data to maps. Your data must match this key's values. Geographical maps typically use hc-key.</sys_name>
+        <sys_package display_value="I18N: Ukrainian Translations" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="I18N: Ukrainian Translations">176ebda287b38910f4b131570cbb3551</sys_scope>
+        <sys_update_name>sys_ui_message_377ff46b1b96c910c069657bab4bcb63</sys_update_name>
+        <sys_updated_by>bogdan.felinskyi</sys_updated_by>
+        <sys_updated_on>2022-03-23 17:40:30</sys_updated_on>
+    </sys_ui_message>
+</record_update>

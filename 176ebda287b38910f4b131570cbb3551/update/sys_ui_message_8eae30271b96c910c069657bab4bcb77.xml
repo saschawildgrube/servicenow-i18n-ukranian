@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application/>
+        <code/>
+        <commented_message/>
+        <key>Authentication Policy Context Form Banner Message</key>
+        <language>uk</language>
+        <message>Контекст політики автентичності визначає, як і коли політика застосовується під час процесу входу в систему, коли політика вибирається в контексті політики попередньої/наступної автентичності; політика виконується до/після відображення екрана входу в систему користувачеві і результат політики визначається вибором параметра конфігурації політики за замовчуванням, а саме: &lt;ul&gt; &lt;li&gt;вибір політики заборони доступу як стандартна політика дозволяє доступ всім користувачам за замовчуванням і забороняє доступ, тільки якщо для умов політики, визначених у політиці заборони доступу, встановлено значення «істина»; &lt;/li&gt; &lt;li&gt;вибір політик дозволу доступу як стандартної політики забороняє доступ всім користувачам за замовчуванням і дозволяє доступ, лише якщо для умов політики, визначених у політиці дозволу доступу, встановлено значення «істина». &lt;/li&gt; &lt;/ul&gt; ПРИМІТКА. Перейдіть до запису «Політика автентифікації», щоб додати/змінити «Вхідні дані політик(и)» у поле «Політика» (політика дозволу або політика заборони). &lt;a target="_blank" href="/api/now/v1/context_doc_url/CSHelp-auth-policy-context"&gt;Додаткова інформація&lt;/a&gt;</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>bogdan.felinskyi</sys_created_by>
+        <sys_created_on>2022-03-23 17:36:50</sys_created_on>
+        <sys_id>8eae30271b96c910c069657bab4bcb77</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Authentication Policy Context Form Banner Message</sys_name>
+        <sys_package display_value="I18N: Ukrainian Translations" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="I18N: Ukrainian Translations">176ebda287b38910f4b131570cbb3551</sys_scope>
+        <sys_update_name>sys_ui_message_8eae30271b96c910c069657bab4bcb77</sys_update_name>
+        <sys_updated_by>bogdan.felinskyi</sys_updated_by>
+        <sys_updated_on>2022-03-23 17:36:50</sys_updated_on>
+    </sys_ui_message>
+</record_update>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application/>
+        <code/>
+        <commented_message/>
+        <key>invalid network ip address. the valid format is a single ip address (x.x.x.x) or a range of ip addresses (x.x.x.x - y.y.y.y), where x and y can be any number between 0-255.  for ip ranges, the first ip address must be less than the second ip address.</key>
+        <language>uk</language>
+        <message>Недійсна адреса IP-мережі. Допустимий формат: одна IP-адреса (xxxx) або діапазон IP-адрес (xxxx - yyyy), де x і y можуть бути будь-якими числами від 0 до 255. У діапазонах IP-адрес перша IP-адреса повинна бути меншою, ніж друга IP -Адреса.</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>bogdan.felinskyi</sys_created_by>
+        <sys_created_on>2022-03-23 17:35:40</sys_created_on>
+        <sys_id>d56e30a31b96c910c069657bab4bcbe8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>invalid network ip address. the valid format is a single ip address (x.x.x.x) or a range of ip addresses (x.x.x.x - y.y.y.y), where x and y can be any number between 0-255.  for ip ranges, the first ip address must be less than the second ip address.</sys_name>
+        <sys_package display_value="I18N: Ukrainian Translations" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="I18N: Ukrainian Translations">176ebda287b38910f4b131570cbb3551</sys_scope>
+        <sys_update_name>sys_ui_message_d56e30a31b96c910c069657bab4bcbe8</sys_update_name>
+        <sys_updated_by>bogdan.felinskyi</sys_updated_by>
+        <sys_updated_on>2022-03-23 17:35:40</sys_updated_on>
+    </sys_ui_message>
+</record_update>

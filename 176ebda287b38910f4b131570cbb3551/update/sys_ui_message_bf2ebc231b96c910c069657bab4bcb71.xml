@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application/>
+        <code/>
+        <commented_message/>
+        <key>sd_wan_wf_primary_secondary_device_failure_l1_desc_key</key>
+        <language>uk</language>
+        <message>Перевірте засіб агента на наявність відомих дозволів для інциденту. Якщо відомо, використовуйте задокументовані процедури дозволу для відновлення нормальної роботи служби або ініціюйте затверджений стандартний шаблон зміни дозволу. У разі потреби виконайте технічне обслуговування, ініціювавши дію «Створити робоче замовлення». При необхідності служба оперативного обслуговування встановить обладнання, що замінюється. Скоординуйте дії зі службою оперативного обслуговування після завершення операцій на місцях та визначте, чи буде робота служби відновлена чи потрібна ескалація. Якщо для інциденту потрібна ескалація, задокументуйте всі виконані дії та залучіть мережевих інженерів рівня 2, клацнувши дію «Ескалація».</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>bogdan.felinskyi</sys_created_by>
+        <sys_created_on>2022-03-23 17:34:45</sys_created_on>
+        <sys_id>bf2ebc231b96c910c069657bab4bcb71</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sd_wan_wf_primary_secondary_device_failure_l1_desc_key</sys_name>
+        <sys_package display_value="I18N: Ukrainian Translations" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="I18N: Ukrainian Translations">176ebda287b38910f4b131570cbb3551</sys_scope>
+        <sys_update_name>sys_ui_message_bf2ebc231b96c910c069657bab4bcb71</sys_update_name>
+        <sys_updated_by>bogdan.felinskyi</sys_updated_by>
+        <sys_updated_on>2022-03-23 17:34:45</sys_updated_on>
+    </sys_ui_message>
+</record_update>

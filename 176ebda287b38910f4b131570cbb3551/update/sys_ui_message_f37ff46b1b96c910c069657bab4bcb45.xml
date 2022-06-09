@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application/>
+        <code/>
+        <commented_message/>
+        <key>Specifies an IP network with valid IP addresses between 10.0.1.1 and 10.0.1.254 inclusive, an IP address range from 10.0.2.1 to 10.0.2.15 inclusive, and the two individual IP addresses 10.0.3.176 and 10.0.3.222. Any entries you make that cannot be interpr</key>
+        <language>uk</language>
+        <message>Характеризує IP-мережу з допустимими IP-адресами між 10.0.1.1 та 10.0.1.254 включно, діапазон IP-адрес від 10.0.2.1 до 10.0.2.15 включно, а також дві індивідуальні IP-адреси 10.0.3.176 та 10 Всі записи, які ви вводите, які не піддаються інтерпретації, просто будуть проігноровані.</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>bogdan.felinskyi</sys_created_by>
+        <sys_created_on>2022-03-23 17:40:29</sys_created_on>
+        <sys_id>f37ff46b1b96c910c069657bab4bcb45</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Specifies an IP network with valid IP addresses between 10.0.1.1 and 10.0.1.254 inclusive, an IP address range from 10.0.2.1 to 10.0.2.15 inclusive, and the two individual IP addresses 10.0.3.176 and 10.0.3.222. Any entries you make that cannot be interpr</sys_name>
+        <sys_package display_value="I18N: Ukrainian Translations" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="I18N: Ukrainian Translations">176ebda287b38910f4b131570cbb3551</sys_scope>
+        <sys_update_name>sys_ui_message_f37ff46b1b96c910c069657bab4bcb45</sys_update_name>
+        <sys_updated_by>bogdan.felinskyi</sys_updated_by>
+        <sys_updated_on>2022-03-23 17:40:29</sys_updated_on>
+    </sys_ui_message>
+</record_update>

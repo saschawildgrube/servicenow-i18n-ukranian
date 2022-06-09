@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application/>
+        <code/>
+        <commented_message/>
+        <key>Discovery Status Description</key>
+        <language>uk</language>
+        <message>Стан виявлення містить відомості про виявлення, запущеному за розкладом. Стан відображає докладні відомості про результати виявлення, у тому числі журнали, зонди, датчики та чергу ECC. Дізнайтесь більше про &lt;a class="linked" target="_blank" href="${gs.getProperty('help.base.servicenow')}CSHelp:Discovery_Status"&gt;стан виявлення.&lt;/a&gt; Перейдіть за цим посиланням, щоб отримати допомогу у &lt;a class="linked" target="_blank" href="${gs.getProperty('help.base.servicenow')}CSHelp:Discovery_Troubleshooting"&gt;усунення проблем із виявленням &lt;/a&gt;.</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>bogdan.felinskyi</sys_created_by>
+        <sys_created_on>2022-03-23 17:37:43</sys_created_on>
+        <sys_id>1bdeb4671b96c910c069657bab4bcb9e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Discovery Status Description</sys_name>
+        <sys_package display_value="I18N: Ukrainian Translations" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="I18N: Ukrainian Translations">176ebda287b38910f4b131570cbb3551</sys_scope>
+        <sys_update_name>sys_ui_message_1bdeb4671b96c910c069657bab4bcb9e</sys_update_name>
+        <sys_updated_by>bogdan.felinskyi</sys_updated_by>
+        <sys_updated_on>2022-03-23 17:37:43</sys_updated_on>
+    </sys_ui_message>
+</record_update>

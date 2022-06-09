@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application/>
+        <code/>
+        <commented_message/>
+        <key>Use translated utterances, entities, and vocabulary in your intents as a starting point to build out content in this language. Review them for relevance and adjust the syntax as needed. Then, mark intent reviewed.</key>
+        <language>uk</language>
+        <message>Використовуйте перекладені висловлювання, об'єкти та словник у своїх намірах як початкову точку для створення вмісту цією мовою. Перегляньте їх для оцінки релевантності та при необхідності налаштуйте синтаксис. Потім позначте намір як перевірений.</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>bogdan.felinskyi</sys_created_by>
+        <sys_created_on>2022-03-23 17:41:26</sys_created_on>
+        <sys_id>2dbf78ab1b96c910c069657bab4bcb59</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Use translated utterances, entities, and vocabulary in your intents as a starting point to build out content in this language. Review them for relevance and adjust the syntax as needed. Then, mark intent reviewed.</sys_name>
+        <sys_package display_value="I18N: Ukrainian Translations" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="I18N: Ukrainian Translations">176ebda287b38910f4b131570cbb3551</sys_scope>
+        <sys_update_name>sys_ui_message_2dbf78ab1b96c910c069657bab4bcb59</sys_update_name>
+        <sys_updated_by>bogdan.felinskyi</sys_updated_by>
+        <sys_updated_on>2022-03-23 17:41:26</sys_updated_on>
+    </sys_ui_message>
+</record_update>

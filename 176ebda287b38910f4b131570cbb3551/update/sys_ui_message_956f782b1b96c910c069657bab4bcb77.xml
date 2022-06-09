@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application/>
+        <code/>
+        <commented_message/>
+        <key>SAM: Removal Candidate: Optimize: Justification AWS PaaS Enterprise</key>
+        <language>uk</language>
+        <message>Корпоративний випуск {0} {1}, встановлений на {2}, позначений як потенційно неліцензійна установка серед центру обробки даних AWS PaaS. Корпоративні ліцензії {0} {1} неправильно переміщені у хмару без належних локальних прав рекомендується оптимізувати поточну конфігурацію на базі даних, розміщеній у класі екземпляра {3}, шляхом призначення поточного розміру віртуального ЦП {4} меншого значення. Це можна здійснити шляхом зміни кількості ядер ЦП та кількості потоків ядра ЦП. Допустиме число ядер ЦП і кількість потоків на кожне ядро ​​вказані тут: https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Concepts.DBInstanceClass.html#USER_ConfigureProcessor дискового простору, пропускну здатність вводу-виводу, але це створює високу навантаження на ЦП. Ви зможете зменшити кількість віртуальних ЦП у поточному розгортанні без зниження продуктивності.​ Пропонуємо працювати з адміністратором бази даних Oracle та адміністратором хмари, щоб оцінити вплив перед переходом до виконання цієї дії.</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>bogdan.felinskyi</sys_created_by>
+        <sys_created_on>2022-03-23 17:40:03</sys_created_on>
+        <sys_id>956f782b1b96c910c069657bab4bcb77</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SAM: Removal Candidate: Optimize: Justification AWS PaaS Enterprise</sys_name>
+        <sys_package display_value="I18N: Ukrainian Translations" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="I18N: Ukrainian Translations">176ebda287b38910f4b131570cbb3551</sys_scope>
+        <sys_update_name>sys_ui_message_956f782b1b96c910c069657bab4bcb77</sys_update_name>
+        <sys_updated_by>bogdan.felinskyi</sys_updated_by>
+        <sys_updated_on>2022-03-23 17:40:03</sys_updated_on>
+    </sys_ui_message>
+</record_update>

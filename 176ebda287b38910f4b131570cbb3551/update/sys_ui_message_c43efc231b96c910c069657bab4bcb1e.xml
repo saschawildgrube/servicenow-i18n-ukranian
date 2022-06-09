@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application/>
+        <code/>
+        <commented_message/>
+        <key>help your employees transition by reviewing  and customizing the plan. it is editable and will be available to {0} after it's published.</key>
+        <language>uk</language>
+        <message>Допоможіть вашим співробітникам виконати перехід, переглянувши та налаштувавши план. Він редагований і буде доступний {0} після публікації.</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>bogdan.felinskyi</sys_created_by>
+        <sys_created_on>2022-03-23 17:34:46</sys_created_on>
+        <sys_id>c43efc231b96c910c069657bab4bcb1e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>help your employees transition by reviewing  and customizing the plan. it is editable and will be available to {0} after it's published.</sys_name>
+        <sys_package display_value="I18N: Ukrainian Translations" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="I18N: Ukrainian Translations">176ebda287b38910f4b131570cbb3551</sys_scope>
+        <sys_update_name>sys_ui_message_c43efc231b96c910c069657bab4bcb1e</sys_update_name>
+        <sys_updated_by>bogdan.felinskyi</sys_updated_by>
+        <sys_updated_on>2022-03-23 17:34:46</sys_updated_on>
+    </sys_ui_message>
+</record_update>

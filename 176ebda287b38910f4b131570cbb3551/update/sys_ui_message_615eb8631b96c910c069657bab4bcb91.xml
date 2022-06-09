@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application/>
+        <code/>
+        <commented_message/>
+        <key>&lt;div ng-class="{\'sp-date-input-group\': sndisabled, \'input-group\': !sndisabled, \'has-error\': field.isinvaliddateformat || field.isinvalid}" style="width: 100%;" role="presentation"&gt;&lt;input id="sp_formfield_{{::field.name}}" aria-live="{{::live}}" aria</key>
+        <language>uk</language>
+        <message>&lt;div ng-class="{\'sp-date-input-group\': snDisabled, \'input-group\': !snDisabled, \'has-error\': field.isInvalidDateFormat || field.isInvalid} " style="width: 100%;" role="presentation"&gt;&lt;input id="sp_formfield_{{::field.name}}" aria-live="{{::live}}" aria-hidden="true" aria-label="{{: :field.label}} {{formattedDateAria}}" type="text" name="{{field.name}}" class="form-control" placeholder="{{field.placeholder}}" title="{ {g_accessibility ? translations[\'Date in format\'] + \' \': \'\'}}{{g_accessibility ? format : \'\'}}" data-placement="top" data-toggle=" {{g_accessibility ? \'tooltip\' : undefined}}" ng-model="formattedDate" ng-model-options="{updateOn: \'blur\', getterSetter: true}" ng-readonly="snDisabled" aria -required="{{field.isMandatory()}}" aria-invalid="{{field.isInvalidDateFormat}}"/&gt;&lt;span class="input-group-btn" ng-hide="snDisabled"&gt;&lt;input type="hidden" class="datepickerinput" ng-model="formattedDate" ng-readonly="true" /&gt;&lt;button class="btn btn-default" type="button" role="button" title="{ {::iconAriaLabel}}" aria-label="{{::iconAriaLabel}}" data-toggle="tooltip" data-placement="top" data-container="body"&gt;&lt;glyph sn-char="calendar " /&gt;&lt;/butto n&gt;&lt;/span&gt;&lt;span ng-if="field.isInvalidDateFormat" class="sp-date-format-info" style="display:table-row;" aria-hidden="true"&gt;{{translations[\'Date in format\']}} {{format}}&lt;/span&gt;&lt;/div&gt;</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>bogdan.felinskyi</sys_created_by>
+        <sys_created_on>2022-03-23 17:35:26</sys_created_on>
+        <sys_id>615eb8631b96c910c069657bab4bcb91</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>&lt;div ng-class="{\'sp-date-input-group\': sndisabled, \'input-group\': !sndisabled, \'has-error\': field.isinvaliddateformat || field.isinvalid}" style="width: 100%;" role="presentation"&gt;&lt;input id="sp_formfield_{{::field.name}}" aria-live="{{::live}}" aria</sys_name>
+        <sys_package display_value="I18N: Ukrainian Translations" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="I18N: Ukrainian Translations">176ebda287b38910f4b131570cbb3551</sys_scope>
+        <sys_update_name>sys_ui_message_615eb8631b96c910c069657bab4bcb91</sys_update_name>
+        <sys_updated_by>bogdan.felinskyi</sys_updated_by>
+        <sys_updated_on>2022-03-23 17:35:26</sys_updated_on>
+    </sys_ui_message>
+</record_update>

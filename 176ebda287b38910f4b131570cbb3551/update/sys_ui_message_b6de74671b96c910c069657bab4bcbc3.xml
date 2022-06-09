@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application/>
+        <code/>
+        <commented_message/>
+        <key>Dictionary Form Description</key>
+        <language>uk</language>
+        <message>&lt;span style="color:#666666;"&gt;Словарний запис керує збереженням ServiceNow даних у таблицях та полях (стовпцях) Для нових словникових записів виберіть &lt;b&gt;таблицю&lt;/b&gt; та &lt;b&gt;тип&lt;/b&gt; поля нового стовпця . Також необхідно ввести мітку стовпця, яка виконує функції мітки поля та імені стовпця. У разі потреби встановіть &lt;b&gt;макс. довжину&lt;/b&gt; для тексту полів типу «Рядок», налаштуйте поле як &lt;b&gt;Обов'язкове&lt;/b&gt; для збереження запису, а потім налаштуйте поле як &lt;b&gt;&lt;a id="permalink" class="linked" style= "color:#666666;" href="${gs.getProperty('help.base.servicenow')}CSHelp:Reference_Fields_Display_Values" target="_blank"&gt;${gs.getMessage("Відображуване значення")}&lt;/a&gt;&lt;/b&gt; для полів посилання, щоб воно відображалося в записах, що посилаються на цю таблицю. &lt;a id="permalink" class="linked" style="color:#666666;" href="${gs.getProperty('help.base.servicenow')}CSHelp:Dictionary_Entry" target="_blank"&gt;${gs.getMessage("Докладнішеo")}&lt;/a&gt;&lt;/span&gt;</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>bogdan.felinskyi</sys_created_by>
+        <sys_created_on>2022-03-23 17:37:42</sys_created_on>
+        <sys_id>b6de74671b96c910c069657bab4bcbc3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Dictionary Form Description</sys_name>
+        <sys_package display_value="I18N: Ukrainian Translations" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="I18N: Ukrainian Translations">176ebda287b38910f4b131570cbb3551</sys_scope>
+        <sys_update_name>sys_ui_message_b6de74671b96c910c069657bab4bcbc3</sys_update_name>
+        <sys_updated_by>bogdan.felinskyi</sys_updated_by>
+        <sys_updated_on>2022-03-23 17:37:42</sys_updated_on>
+    </sys_ui_message>
+</record_update>

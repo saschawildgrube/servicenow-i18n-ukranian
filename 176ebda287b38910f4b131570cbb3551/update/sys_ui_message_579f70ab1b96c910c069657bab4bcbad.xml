@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application/>
+        <code/>
+        <commented_message/>
+        <key>There is {0} variable(s) with name '{1}' associated with the variable set '{2}', which has same name as variable set '{3}' internal name or title, which is linked to the catalog item '{4}'</key>
+        <language>uk</language>
+        <message>Є змінні ({0}) з ім'ям "{1}", пов'язані з набором змінних "{2}", ім'я якого відповідає внутрішньому імені або назві набору змінних "{3}", який пов'язаний з елементом каталогу "{4}"</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>bogdan.felinskyi</sys_created_by>
+        <sys_created_on>2022-03-23 17:41:01</sys_created_on>
+        <sys_id>579f70ab1b96c910c069657bab4bcbad</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>There is {0} variable(s) with name '{1}' associated with the variable set '{2}', which has same name as variable set '{3}' internal name or title, which is linked to the catalog item '{4}'</sys_name>
+        <sys_package display_value="I18N: Ukrainian Translations" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="I18N: Ukrainian Translations">176ebda287b38910f4b131570cbb3551</sys_scope>
+        <sys_update_name>sys_ui_message_579f70ab1b96c910c069657bab4bcbad</sys_update_name>
+        <sys_updated_by>bogdan.felinskyi</sys_updated_by>
+        <sys_updated_on>2022-03-23 17:41:01</sys_updated_on>
+    </sys_ui_message>
+</record_update>

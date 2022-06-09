@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application/>
+        <code/>
+        <commented_message/>
+        <key>This entitlement has been retired as the database option (option) or management pack (pack) is no longer available in the software library. This was done for a few reasons: 1) Certain options, for example Oracle Spatial and Graph, are now available for fr</key>
+        <language>uk</language>
+        <message>Цей дозвіл було скасовано, оскільки компонент бази даних (компонент) або пакет керування (пакет) більше не доступний у бібліотеці програмного забезпечення. Це було зроблено з кількох причин: (1) деякі компоненти, наприклад, Oracle Spatial and Graph, тепер доступні безкоштовно в рамках вашої ліцензії на сервер Oracle; (2)для інших компонентів або пакетів ім'я в бібліотеці програмного забезпечення не відображає конвенцію Oracle на ім'я програмного забезпечення. Компоненти та пакети в бібліотеці програмного забезпечення оновлені для точного відображення імені Oracle для програмного забезпечення. Оскільки це дозвіл в процесі вилучення, всі перевизначення вартість ліцензії, зазначені для цього компонента або пакета в програмній моделі сервера баз даних Oracle також буде видалено.</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>bogdan.felinskyi</sys_created_by>
+        <sys_created_on>2022-03-23 17:41:03</sys_created_on>
+        <sys_id>00afb0ab1b96c910c069657bab4bcb6d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>This entitlement has been retired as the database option (option) or management pack (pack) is no longer available in the software library. This was done for a few reasons: 1) Certain options, for example Oracle Spatial and Graph, are now available for fr</sys_name>
+        <sys_package display_value="I18N: Ukrainian Translations" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="I18N: Ukrainian Translations">176ebda287b38910f4b131570cbb3551</sys_scope>
+        <sys_update_name>sys_ui_message_00afb0ab1b96c910c069657bab4bcb6d</sys_update_name>
+        <sys_updated_by>bogdan.felinskyi</sys_updated_by>
+        <sys_updated_on>2022-03-23 17:41:03</sys_updated_on>
+    </sys_ui_message>
+</record_update>

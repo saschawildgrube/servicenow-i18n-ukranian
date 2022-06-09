@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application/>
+        <code/>
+        <commented_message/>
+        <key>sd_wan_wf_primary_secondary_wan_link_failure_l1_desc_key</key>
+        <language>uk</language>
+        <message>Перевірте засіб агента на наявність відомих дозволів для інциденту. Якщо відомо, використовуйте задокументовані процедури дозволу для відновлення нормальної роботи служби або ініціюйте затверджений стандартний шаблон зміни дозволу. Виконайте такі дії з пошуку та усунення несправностей у джерелі, місці призначення та будь-якому мережному елементі між ними. — Перевірте стан порту. - Перевірте стан живлення. — Конфігурація порту У разі потреби виконайте технічне обслуговування, ініціювавши дію «Створити робоче замовлення». Якщо здається, що робота служби відновлюється, слідкуйте за стабільністю WAN-каналу протягом певного періоду часу. Якщо виявлено нестабільність, виконайте ескалацію інциденту мережним інженерам рівня 2, задокументувавши всі дії щодо усунення несправностей та результатів.</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>bogdan.felinskyi</sys_created_by>
+        <sys_created_on>2022-03-23 17:34:25</sys_created_on>
+        <sys_id>fe1eb0231b96c910c069657bab4bcbf5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sd_wan_wf_primary_secondary_wan_link_failure_l1_desc_key</sys_name>
+        <sys_package display_value="I18N: Ukrainian Translations" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="I18N: Ukrainian Translations">176ebda287b38910f4b131570cbb3551</sys_scope>
+        <sys_update_name>sys_ui_message_fe1eb0231b96c910c069657bab4bcbf5</sys_update_name>
+        <sys_updated_by>bogdan.felinskyi</sys_updated_by>
+        <sys_updated_on>2022-03-23 17:34:25</sys_updated_on>
+    </sys_ui_message>
+</record_update>

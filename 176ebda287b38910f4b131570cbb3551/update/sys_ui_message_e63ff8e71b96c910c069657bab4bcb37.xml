@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application/>
+        <code/>
+        <commented_message/>
+        <key>OAuth oidc provider user provisioning</key>
+        <language>uk</language>
+        <message>&lt;ul&gt;&lt;li&gt;&lt;b&gt;Автоматично забезпечувати користувачів:&lt;/b&gt; Увімкнення або вимкнення надання користувача.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Надання за допомогою:&lt;/b&gt; Користувач служби надання послуг використовує маркер ідентифікатора як джерела або обох користувачів кінцевої точки.&lt;/li&gt;&lt;li&gt;Джерело даних &lt;b&gt;маркера ідентифікатора:&lt;/b&gt; Джерело даних, яке перетворило маркер ідентифікатора на користувача служби обслуговування.&lt;/li&gt;&lt;li&gt;Джерело &lt;b&gt; інформації про користувачів:&lt;/b&gt; Джерело даних, що використовується для перетворення заявок, повернутих з кінцевої точки користувачів користувачу.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Оновити користувача для наступного входу:&lt;/b&gt; Оновлює користувача при наступному вході .&lt;/li&gt;&lt;li&gt;&lt;b&gt;Оновити інтервал часу користувача (у секундах):&lt;/b&gt; Мінімальний інтервал часу в секундах для оновлення запису користувача між наступними логінами.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Ролі користувача, застосовані до підготовленої користувачів:&lt;/b&gt; Ролі користувача, які п ріменяються лише до нещодавно створених користувачів служби обслуговування.&lt;/li&gt;&lt;/ul&gt;</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>bogdan.felinskyi</sys_created_by>
+        <sys_created_on>2022-03-23 17:39:19</sys_created_on>
+        <sys_id>e63ff8e71b96c910c069657bab4bcb37</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>OAuth oidc provider user provisioning</sys_name>
+        <sys_package display_value="I18N: Ukrainian Translations" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="I18N: Ukrainian Translations">176ebda287b38910f4b131570cbb3551</sys_scope>
+        <sys_update_name>sys_ui_message_e63ff8e71b96c910c069657bab4bcb37</sys_update_name>
+        <sys_updated_by>bogdan.felinskyi</sys_updated_by>
+        <sys_updated_on>2022-03-23 17:39:19</sys_updated_on>
+    </sys_ui_message>
+</record_update>

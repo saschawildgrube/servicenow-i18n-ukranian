@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application/>
+        <code/>
+        <commented_message/>
+        <key>You can either change the main indicator to another main indicator that uses facts table {1} or delete all of the existing criteria and replace those with criteria based on facts table {2}.</key>
+        <language>uk</language>
+        <message>Ви можете або змінити основний індикатор на інший основний індикатор, який використовує таблицю фактів {1}, або видалити всі існуючі критерії та замінити їх критеріями на основі таблиці фактів {2}.</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>bogdan.felinskyi</sys_created_by>
+        <sys_created_on>2022-03-23 17:41:41</sys_created_on>
+        <sys_id>5dcfbcab1b96c910c069657bab4bcb2b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>You can either change the main indicator to another main indicator that uses facts table {1} or delete all of the existing criteria and replace those with criteria based on facts table {2}.</sys_name>
+        <sys_package display_value="I18N: Ukrainian Translations" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="I18N: Ukrainian Translations">176ebda287b38910f4b131570cbb3551</sys_scope>
+        <sys_update_name>sys_ui_message_5dcfbcab1b96c910c069657bab4bcb2b</sys_update_name>
+        <sys_updated_by>bogdan.felinskyi</sys_updated_by>
+        <sys_updated_on>2022-03-23 17:41:41</sys_updated_on>
+    </sys_ui_message>
+</record_update>

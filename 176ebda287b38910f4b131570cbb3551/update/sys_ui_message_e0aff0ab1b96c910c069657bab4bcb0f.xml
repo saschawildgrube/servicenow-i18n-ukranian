@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application/>
+        <code/>
+        <commented_message/>
+        <key>This record is a Requested Restricted Caller Access Privilege generated in the source application and is ignored for access privileges. A Real RCA must be in the target scope '{0}' but is in source scope '{1}' and is ignored for access calculation. Please</key>
+        <language>uk</language>
+        <message>Цей запис є запитом обмеженого права доступу для абонента, створеного у вихідному додатку, він також ігнорується для прав доступу. Реальний RCA повинен знаходитись у цільовій області дії «{0}», але він знаходиться у вихідній області дії «{1}» і ігнорується при обчисленні доступу. Зверніться до адміністратора.</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>bogdan.felinskyi</sys_created_by>
+        <sys_created_on>2022-03-23 17:41:05</sys_created_on>
+        <sys_id>e0aff0ab1b96c910c069657bab4bcb0f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>This record is a Requested Restricted Caller Access Privilege generated in the source application and is ignored for access privileges. A Real RCA must be in the target scope '{0}' but is in source scope '{1}' and is ignored for access calculation. Please</sys_name>
+        <sys_package display_value="I18N: Ukrainian Translations" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="I18N: Ukrainian Translations">176ebda287b38910f4b131570cbb3551</sys_scope>
+        <sys_update_name>sys_ui_message_e0aff0ab1b96c910c069657bab4bcb0f</sys_update_name>
+        <sys_updated_by>bogdan.felinskyi</sys_updated_by>
+        <sys_updated_on>2022-03-23 17:41:05</sys_updated_on>
+    </sys_ui_message>
+</record_update>

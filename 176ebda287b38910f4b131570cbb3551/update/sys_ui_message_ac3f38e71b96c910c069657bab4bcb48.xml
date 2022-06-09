@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application/>
+        <code/>
+        <commented_message/>
+        <key>No data to analyze yet. This may be because the indicator hasn\'t been added to a data collection job, or because its data collection job hasn\'t run. If this is a manual indicator, no one has entered data.</key>
+        <language>uk</language>
+        <message>Дані для аналізу відсутні. Це може бути пов'язано з тим, що індикатор не був доданий до завдання збору даних, а також з тим, що завдання збору даних не було запущено. Якщо це ручний індикатор, дані не було введено.</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>bogdan.felinskyi</sys_created_by>
+        <sys_created_on>2022-03-23 17:39:10</sys_created_on>
+        <sys_id>ac3f38e71b96c910c069657bab4bcb48</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>No data to analyze yet. This may be because the indicator hasn\'t been added to a data collection job, or because its data collection job hasn\'t run. If this is a manual indicator, no one has entered data.</sys_name>
+        <sys_package display_value="I18N: Ukrainian Translations" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="I18N: Ukrainian Translations">176ebda287b38910f4b131570cbb3551</sys_scope>
+        <sys_update_name>sys_ui_message_ac3f38e71b96c910c069657bab4bcb48</sys_update_name>
+        <sys_updated_by>bogdan.felinskyi</sys_updated_by>
+        <sys_updated_on>2022-03-23 17:39:10</sys_updated_on>
+    </sys_ui_message>
+</record_update>

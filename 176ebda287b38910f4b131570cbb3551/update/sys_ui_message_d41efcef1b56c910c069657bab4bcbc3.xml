@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application/>
+        <code/>
+        <commented_message/>
+        <key>check definition header</key>
+        <language>uk</language>
+        <message>&lt;p&gt;При виборі прапорця &lt;b&gt;Автоматична генерація команди&lt;/b&gt; поле &lt;b&gt;«Команда»&lt;/b&gt; автоматично заповнюється префіксом (командою) та прапорцями активних параметрів.&lt;br&gt; Щоб заповнити поле команди &lt;b&gt;&lt;/ b&gt; вручну, зніміть прапорець &lt;b&gt;Автоматична генерація команди&lt;/b&gt;. &lt;br&gt; Під час заповнення поля &lt;b&gt;Команда&lt;/b&gt; вручну: &lt;li&gt;Використовуйте наступний синтаксис для додавання полів імен: &lt;b&gt; {{.labels.params_field_name}}&lt;/b&gt;&lt;/li&gt; &lt;li&gt;Використовуйте наступний синтаксис для додавання полів елементів конфігурації: &lt;b&gt;{{.labels.params_ci_field_name}}&lt;/b&gt;&lt;/li&gt; &lt;li&gt;Щоб додати відомості про облікові дані, створіть новий параметр безпеки: &lt;ol&gt; &lt;li&gt;Для атрибуту імені використовуйте наступний синтаксис: cred_[credential_detail_field_name]; наприклад: &lt;b&gt;cred_password&lt;/b&gt; або &lt;b&gt; cred_user_name&lt;/b&gt;&lt;/li&gt; &lt;li&gt;Щоб використовувати певні безпечні параметри, використовуйте команди, які отримують вхідні дані stdin, наприклад команду «read». Наприклад: під час введення «read user; echo $user» друкується відповідний користувач.&lt;/li&gt; &lt;li&gt;Переконайтеся, що значення атрибута порядку унікальне, і що ваш сценарій очікує точно одного і того ж порядку&lt;/li&gt; &lt;/ol&gt; &lt;/li&gt;</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>bogdan.felinskyi</sys_created_by>
+        <sys_created_on>2022-03-23 17:34:14</sys_created_on>
+        <sys_id>d41efcef1b56c910c069657bab4bcbc3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>check definition header</sys_name>
+        <sys_package display_value="I18N: Ukrainian Translations" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="I18N: Ukrainian Translations">176ebda287b38910f4b131570cbb3551</sys_scope>
+        <sys_update_name>sys_ui_message_d41efcef1b56c910c069657bab4bcbc3</sys_update_name>
+        <sys_updated_by>bogdan.felinskyi</sys_updated_by>
+        <sys_updated_on>2022-03-23 17:34:14</sys_updated_on>
+    </sys_ui_message>
+</record_update>

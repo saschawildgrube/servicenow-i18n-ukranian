@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application/>
+        <code/>
+        <commented_message/>
+        <key>Use 'Recommended' or 'All' to select the main CI which is one of the duplicate CIs that you want to keep. Once selected, the main CI is separate from the rest of the 'duplicate CIs'. You can then choose which attribute values, relationships, and related i</key>
+        <language>uk</language>
+        <message>Використовуйте «Рекомендований» або «Все», щоб вибрати головний елемент конфігурації, який є одним із дубльованих елементів конфігурації, які потрібно зберегти. Після вибору головний елемент конфігурації відокремлюється від решти «дубльованих елементів конфігурації». Потім можна вибрати, які значення атрибутів, відносини та пов'язані елементи з дубльованих елементів конфігурації об'єднати в основній конфігурації.</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>bogdan.felinskyi</sys_created_by>
+        <sys_created_on>2022-03-23 17:41:25</sys_created_on>
+        <sys_id>d1bf78ab1b96c910c069657bab4bcb06</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Use 'Recommended' or 'All' to select the main CI which is one of the duplicate CIs that you want to keep. Once selected, the main CI is separate from the rest of the 'duplicate CIs'. You can then choose which attribute values, relationships, and related i</sys_name>
+        <sys_package display_value="I18N: Ukrainian Translations" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="I18N: Ukrainian Translations">176ebda287b38910f4b131570cbb3551</sys_scope>
+        <sys_update_name>sys_ui_message_d1bf78ab1b96c910c069657bab4bcb06</sys_update_name>
+        <sys_updated_by>bogdan.felinskyi</sys_updated_by>
+        <sys_updated_on>2022-03-23 17:41:25</sys_updated_on>
+    </sys_ui_message>
+</record_update>

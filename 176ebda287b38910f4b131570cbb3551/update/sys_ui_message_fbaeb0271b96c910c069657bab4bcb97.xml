@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application/>
+        <code/>
+        <commented_message/>
+        <key>By anonymously and securely providing ServiceNow the unrecognized details of Software Installations, the Software Asset Management Content Service will, in return, supply updates to the Normalization Library. This new content will improve your normalizati</key>
+        <language>uk</language>
+        <message>Анонімно та безпечно надаючи ServiceNow нерозпізнані відомості про установки програмного забезпечення, програма обслуговування вмісту з управління програмними ресурсами надаватиме оновлення для бібліотеки нормалізації. Цей новий вміст підвищить ваш коефіцієнт нормалізації та дозволить краще керувати програмними ресурсами.</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>bogdan.felinskyi</sys_created_by>
+        <sys_created_on>2022-03-23 17:36:56</sys_created_on>
+        <sys_id>fbaeb0271b96c910c069657bab4bcb97</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>By anonymously and securely providing ServiceNow the unrecognized details of Software Installations, the Software Asset Management Content Service will, in return, supply updates to the Normalization Library. This new content will improve your normalizati</sys_name>
+        <sys_package display_value="I18N: Ukrainian Translations" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="I18N: Ukrainian Translations">176ebda287b38910f4b131570cbb3551</sys_scope>
+        <sys_update_name>sys_ui_message_fbaeb0271b96c910c069657bab4bcb97</sys_update_name>
+        <sys_updated_by>bogdan.felinskyi</sys_updated_by>
+        <sys_updated_on>2022-03-23 17:36:56</sys_updated_on>
+    </sys_ui_message>
+</record_update>

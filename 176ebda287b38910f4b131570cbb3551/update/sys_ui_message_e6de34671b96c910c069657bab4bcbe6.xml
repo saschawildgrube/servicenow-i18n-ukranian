@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application/>
+        <code/>
+        <commented_message/>
+        <key>Depending on the size of the table you want to refer to, it can take upto few hours to sync. Once the table is synced, you will be able to refer to in an utterance and optionally, annotate it as an entity that can be extracted.</key>
+        <language>uk</language>
+        <message>Залежно від розміру таблиці, на яку потрібно послатися, синхронізація може тривати кілька годин. Як тільки таблиця буде синхронізована, ви зможете посилатися на неї у фрагменті та, за бажанням, помітити її як об'єкт, який можна вилучити.</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>bogdan.felinskyi</sys_created_by>
+        <sys_created_on>2022-03-23 17:37:40</sys_created_on>
+        <sys_id>e6de34671b96c910c069657bab4bcbe6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Depending on the size of the table you want to refer to, it can take upto few hours to sync. Once the table is synced, you will be able to refer to in an utterance and optionally, annotate it as an entity that can be extracted.</sys_name>
+        <sys_package display_value="I18N: Ukrainian Translations" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="I18N: Ukrainian Translations">176ebda287b38910f4b131570cbb3551</sys_scope>
+        <sys_update_name>sys_ui_message_e6de34671b96c910c069657bab4bcbe6</sys_update_name>
+        <sys_updated_by>bogdan.felinskyi</sys_updated_by>
+        <sys_updated_on>2022-03-23 17:37:40</sys_updated_on>
+    </sys_ui_message>
+</record_update>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application/>
+        <code/>
+        <commented_message/>
+        <key>Credential Description</key>
+        <language>uk</language>
+        <message>Облікові дані надають компонентам "Виявлення" та "Оргестрація" доступ до пристрою з увімкненим IP через сервер MID. Визначте облікові дані для автентифікації компонентів "Виявлення" та "Оргестрація". &lt;a class="linked" target="_blank" href="${gs.getProperty('help.base.servicenow')}CSHelp:Credentials"&gt;Докладніше&lt;/a&gt;</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>bogdan.felinskyi</sys_created_by>
+        <sys_created_on>2022-03-23 17:37:31</sys_created_on>
+        <sys_id>90defc271b96c910c069657bab4bcb01</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Credential Description</sys_name>
+        <sys_package display_value="I18N: Ukrainian Translations" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="I18N: Ukrainian Translations">176ebda287b38910f4b131570cbb3551</sys_scope>
+        <sys_update_name>sys_ui_message_90defc271b96c910c069657bab4bcb01</sys_update_name>
+        <sys_updated_by>bogdan.felinskyi</sys_updated_by>
+        <sys_updated_on>2022-03-23 17:37:31</sys_updated_on>
+    </sys_ui_message>
+</record_update>

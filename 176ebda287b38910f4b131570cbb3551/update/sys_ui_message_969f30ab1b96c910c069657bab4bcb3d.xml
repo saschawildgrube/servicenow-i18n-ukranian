@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application/>
+        <code/>
+        <commented_message/>
+        <key>The Survey opt-in for Sentiment Analysis is successful. Now you can go to individual Survey Question and enable the sentiment participation.  Please note that participating question response data of this Survey may be sent outbound to 3rd party platform a</key>
+        <language>uk</language>
+        <message>Реєстрація опитування для аналізу тональності пройшла успішно. Тепер можна перейти до окремих питань опитування та включити участь тональності. Зверніть увагу, що дані відповіді на запитання учасників в рамках цього опитування можуть бути надіслані на сторонню платформу відповідно до вашої поточної конфігурації аналізу тональності - {0}</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>bogdan.felinskyi</sys_created_by>
+        <sys_created_on>2022-03-23 17:40:56</sys_created_on>
+        <sys_id>969f30ab1b96c910c069657bab4bcb3d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>The Survey opt-in for Sentiment Analysis is successful. Now you can go to individual Survey Question and enable the sentiment participation.  Please note that participating question response data of this Survey may be sent outbound to 3rd party platform a</sys_name>
+        <sys_package display_value="I18N: Ukrainian Translations" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="I18N: Ukrainian Translations">176ebda287b38910f4b131570cbb3551</sys_scope>
+        <sys_update_name>sys_ui_message_969f30ab1b96c910c069657bab4bcb3d</sys_update_name>
+        <sys_updated_by>bogdan.felinskyi</sys_updated_by>
+        <sys_updated_on>2022-03-23 17:40:56</sys_updated_on>
+    </sys_ui_message>
+</record_update>

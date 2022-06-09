@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application/>
+        <code/>
+        <commented_message/>
+        <key>These are example REST API client applications built for teaching, demoing, and reference purposes. Play with them, fork them, or even reuse some of the code in your projects. Click on an application to see their full source on GitHub as well as additiona</key>
+        <language>uk</language>
+        <message>Тут наведено приклади клієнтських програм REST API, призначених для навчання, демонстрації та посилання. Вивчайте їх, копіюйте їх, можете навіть використовувати частину кодів у проектах. Натисніть програму, щоб побачити повне джерело на GitHub, а також додаткову документацію.</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>bogdan.felinskyi</sys_created_by>
+        <sys_created_on>2022-03-23 17:41:01</sys_created_on>
+        <sys_id>af9f70ab1b96c910c069657bab4bcbd3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>These are example REST API client applications built for teaching, demoing, and reference purposes. Play with them, fork them, or even reuse some of the code in your projects. Click on an application to see their full source on GitHub as well as additiona</sys_name>
+        <sys_package display_value="I18N: Ukrainian Translations" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="I18N: Ukrainian Translations">176ebda287b38910f4b131570cbb3551</sys_scope>
+        <sys_update_name>sys_ui_message_af9f70ab1b96c910c069657bab4bcbd3</sys_update_name>
+        <sys_updated_by>bogdan.felinskyi</sys_updated_by>
+        <sys_updated_on>2022-03-23 17:41:01</sys_updated_on>
+    </sys_ui_message>
+</record_update>

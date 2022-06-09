@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application/>
+        <code/>
+        <commented_message/>
+        <key>di connector - tagging and binding</key>
+        <language>uk</language>
+        <message>&lt;span id="tb_1"&gt; Щоб розпочати потокову передачу даних журналу:&lt;/br&gt;&lt;/br&gt; 1. Додайте шлях, яким будуть передаватися журнали.&lt;/br&gt; Підтримуються підстановочні знаки. Наприклад, /var/log/apache2/*, або /var/log/*.log.&lt;/br&gt; 2. Виберіть службу програм із списку посилань.&lt;/br&gt; Якщо відповідної служби програм не існує, використовуйте список, щоб створити її, та встановіть для неї статус «Працює». Доцільно додати елементи конфігурації до служби додатків.&lt;/br&gt; 3. Використовуйте службу додатків для прив'язування даних журналу до CMDB.&lt;/br&gt; Налаштуйте прив'язку журналів до елемента конфігурації для аналізу основної причини та впливу.&lt;/br&gt; 4. Якщо у вас є додаткові відомості, додайте дані про компонент і тип джерела.&lt;/br&gt; 5. Для надсилання багаторядкових журналів налаштуйте відповідні властивості багаторядкових журналів.&lt;/br&gt; &lt;/span&gt;</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>bogdan.felinskyi</sys_created_by>
+        <sys_created_on>2022-03-23 17:34:46</sys_created_on>
+        <sys_id>443efc231b96c910c069657bab4bcb81</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>di connector - tagging and binding</sys_name>
+        <sys_package display_value="I18N: Ukrainian Translations" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="I18N: Ukrainian Translations">176ebda287b38910f4b131570cbb3551</sys_scope>
+        <sys_update_name>sys_ui_message_443efc231b96c910c069657bab4bcb81</sys_update_name>
+        <sys_updated_by>bogdan.felinskyi</sys_updated_by>
+        <sys_updated_on>2022-03-23 17:34:46</sys_updated_on>
+    </sys_ui_message>
+</record_update>

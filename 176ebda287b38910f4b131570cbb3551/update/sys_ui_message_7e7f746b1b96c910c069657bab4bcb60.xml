@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application/>
+        <code/>
+        <commented_message/>
+        <key>since they matched a previously identified CI based pattern. Click {0} to view previous alerts that match this pattern. Click {1} to view historical alerts list or view it on a timeline.</key>
+        <language>uk</language>
+        <message>оскільки вони відповідають раніше визначеному шаблоні на основі елемента конфігурації. Натисніть {0}, щоб переглянути попередні повідомлення, які відповідають цьому шаблону. Натисніть {1}, щоб переглянути список історичних сповіщень або переглянути його на часовій шкалі.</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>bogdan.felinskyi</sys_created_by>
+        <sys_created_on>2022-03-23 17:40:25</sys_created_on>
+        <sys_id>7e7f746b1b96c910c069657bab4bcb60</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>since they matched a previously identified CI based pattern. Click {0} to view previous alerts that match this pattern. Click {1} to view historical alerts list or view it on a timeline.</sys_name>
+        <sys_package display_value="I18N: Ukrainian Translations" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="I18N: Ukrainian Translations">176ebda287b38910f4b131570cbb3551</sys_scope>
+        <sys_update_name>sys_ui_message_7e7f746b1b96c910c069657bab4bcb60</sys_update_name>
+        <sys_updated_by>bogdan.felinskyi</sys_updated_by>
+        <sys_updated_on>2022-03-23 17:40:25</sys_updated_on>
+    </sys_ui_message>
+</record_update>
